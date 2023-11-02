@@ -2,7 +2,7 @@
 <h1>Hello, I'm  <a href="https://vk.com/bogdan_klimov">Bogdan</a>!</h1>
 
 <!-- Information about me -->
-<h3>I'm a beginner programmer</h3>
+<h3>I'm a programmer student</h3>
 
 <!-- My GIF -->
 <img src="https://steamuserimages-a.akamaihd.net/ugc/2438013375536940927/D370DBF7BFC83ED36F783F08A598FFF3E71A1D61/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="GIF" width=100% hight="auto">
