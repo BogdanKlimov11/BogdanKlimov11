@@ -1,14 +1,26 @@
 <!-- Header -->
-<h1>Hello, I'm  <a href="https://vk.com/bogdan_klimov">Bogdan</a>!</h1>
+<h1 align="center">(っ◔◡◔)っ Hi there, I'm <a href="https://vk.com/bogdan_klimov" target="_blank">Bogdan</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <!-- Information about me -->
-<h3>I'm a programmer student</h3>
+<h3 align="center">ℂ𝕠𝕞𝕡𝕦𝕥𝕖𝕣 𝕤𝕔𝕚𝕖𝕟𝕔𝕖 𝕤𝕥𝕦𝕕𝕖𝕟𝕥, 𝕀𝕋 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 𝕗𝕣𝕠𝕞 ℝ𝕦𝕤𝕤𝕚𝕒 :desktop_computer:</h3>
 
 <!-- My GIF -->
 <img src="https://steamuserimages-a.akamaihd.net/ugc/2438013375536940927/D370DBF7BFC83ED36F783F08A598FFF3E71A1D61/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="GIF" width=100% hight="auto">
 
-<!-- My skills and tools -->
-<p>My skills:</p>
+<!-- Counter -->
+<img src="https://komarev.com/ghpvc/?username=BogdanKlimov11" alt="Counter" align="left">
+
+<br>
+
+<!-- My goals and interests -->
+### :memo: 𝕄𝕪 𝕘𝕠𝕒𝕝𝕤 𝕒𝕟𝕕 𝕚𝕟𝕥𝕖𝕣𝕖𝕤𝕥𝕤:
+
+<a><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&duration=1500&pause=500&color=2CAFF7&multiline=true&random=false&width=500&height=100&lines=Data+Science;Artificial+Intelligence;Computer+software+development;Mobile+development" alt="Typing SVG" /></a>
+
+<!-- My skills -->
+### :zap: 𝕄𝕪 𝕤𝕜𝕚𝕝𝕝𝕤:
+
 <p>
   <img src="https://img.icons8.com/?size=48&id=40670&format=png" alt="C Lenguage" align="left">
   <img src="https://img.icons8.com/?size=48&id=40669&format=png" alt="C++ Lenguage" align="left">
@@ -24,7 +36,9 @@
 <br>
 <br>
 
-<p>My tools:</p>
+<!-- My tools -->
+### :hammer_and_wrench: 𝕄𝕪 𝕥𝕠𝕠𝕝𝕤:
+
 <p>
   <img src="https://img.icons8.com/?size=48&id=13677&format=png" alt="Photoshop" align="left">
   <img src="https://img.icons8.com/?size=48&id=108781&format=png" alt="After Effects" align="left">
@@ -37,7 +51,8 @@
 <br>
 
 <!-- My IDE -->
-<p>IDEs I use:</p>
+### :computer: 𝕀𝔻𝔼𝕤 𝕀 𝕦𝕤𝕖:
+
 <p>
   <img src="https://img.icons8.com/?size=48&id=jUw5rFZE2a5d&format=png" alt="JetBrains Toolbox" align="left">
   <img src="https://img.icons8.com/?size=48&id=ezj3zaVtImPg&format=png" alt="Visual Studio" align="left">
@@ -48,15 +63,10 @@
 <br>
 <br>
 
-<!-- My contacts -->
-<p>You can contact me:</p>
-<p>
-  <a href="ghost_777_24"><img src="https://img.icons8.com/?size=48&id=32323&format=png" alt="Instagram" align="left"></a>
-  <a href="https://vk.com/bogdan_klimov"><img src="https://img.icons8.com/?size=48&id=114452&format=png" alt="VK" align="left"></a>
-  <a href="https://web.telegram.org/k/#@bogdanklimov"><img src="https://img.icons8.com/?size=48&id=63306&format=png" alt="Telegram" align="left"></a>
-  <a href="bogdanklimov11@gmail.com"><img src="https://img.icons8.com/?size=48&id=qyRpAggnV0zH&format=png" alt="Gmail" align="left"></a>
-</p>
+### :fire: 𝕄𝕪 𝕊𝕥𝕒𝕥𝕤:
 
-<br>
-<br>
-<br>
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BogdanKlimov11&theme=tokyonight" alt="Profile card" width="100%" height="auto"></a>
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BogdanKlimov11&theme=tokyonight" alt="Statistics of languages ​​in commits" width="49.7%" height="auto"></a>
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BogdanKlimov11&theme=tokyonight" alt="Statistics of languages ​​in repositories" width="49.7%" height="auto"></a>
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BogdanKlimov11&theme=tokyonight" alt="Profile statistics" width="49.7%" height="auto"></a>
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BogdanKlimov11&theme=tokyonight" alt="Data on commits per day" width="49.7%" height="auto"></a>
