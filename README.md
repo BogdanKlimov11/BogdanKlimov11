@@ -45,7 +45,7 @@
 <!-- My IDE -->
 ### :computer: 𝕀𝔻𝔼𝕤 𝕀 𝕦𝕤𝕖:
 
-<img src="https://skillicons.dev/icons?i=pycharm,clion,phpstorm,webstorm,rider,vscode,visualstudio,octave,arduino,atom,anaconda,androidstudio&theme=dark&perline=10" alt="Logos">
+<img src="https://skillicons.dev/icons?i=pycharm,clion,phpstorm,webstorm,rider,vscode,visualstudio,arduino,atom,anaconda,androidstudio&theme=dark&perline=10" alt="Logos">
 
 ### :fire: 𝕄𝕪 𝕊𝕥𝕒𝕥𝕤:
 
