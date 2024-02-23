@@ -13,12 +13,12 @@
 
 <br>
 
-<!-- My snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BogdanKlimov11/BogdanKlimov11/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BogdanKlimov11/BogdanKlimov11/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/BogdanKlimov11/BogdanKlimov11/output/github-contribution-grid-snake.svg" alt="Snake" width="100%" height="auto">
-</picture>
+<!-- My achievements -->
+### :trophy: 𝔾𝕚𝕥ℍ𝕦𝕓 ℙ𝕣𝕠𝕗𝕚𝕝𝕖 𝕋𝕣𝕠𝕡𝕙𝕪:
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BogdanKlimov11&theme=tokyonight" alt="Achievements">
+</p>
 
 <br>
 
