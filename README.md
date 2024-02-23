@@ -13,10 +13,11 @@
 
 <br>
 
+<!-- My snake -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="Snake" width="100%" height="auto">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BogdanKlimov11/BogdanKlimov11/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BogdanKlimov11/BogdanKlimov11/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/BogdanKlimov11/BogdanKlimov11/output/github-contribution-grid-snake.svg" alt="Snake" width="100%" height="auto">
 </picture>
 
 <br>
