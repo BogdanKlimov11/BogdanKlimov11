@@ -30,47 +30,22 @@
 <!-- My skills -->
 ### :zap: 𝕄𝕪 𝕤𝕜𝕚𝕝𝕝𝕤:
 
-<p>
-  <img src="https://img.icons8.com/?size=48&id=40670&format=png" alt="C Lenguage" align="left">
-  <img src="https://img.icons8.com/?size=48&id=40669&format=png" alt="C++ Lenguage" align="left">
-  <img src="https://img.icons8.com/?size=48&id=55251&format=png" alt="C# Lenguage" align="left">
-  <img src="https://img.icons8.com/?size=48&id=13441&format=png" alt="Python Lenguage" align="left">
-  <img src="https://img.icons8.com/?size=48&id=r5Y16PcDkoWI&format=png" alt="Matlab Lenguage" align="left">
-  <img src="https://img.icons8.com/?size=48&id=20909&format=png" alt="HTML Lenguage" align="left">
-  <img src="https://img.icons8.com/?size=48&id=21278&format=png" alt="CSS Lenguage" align="left">
-  <img src="https://img.icons8.com/?size=48&id=108784&format=png" alt="JavaSkript Lenguage" align="left">
-</p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,cs,html,css,js,java,php,mysql,bash,kotlin,ts,swift,ruby,go,rust,matlab&theme=dark&perline=10" alt="Logos">
 
-<br>
-<br>
-<br>
+<!-- My framework -->
+### :octocat: 𝕄𝕪 𝕗𝕣𝕒𝕞𝕖𝕨𝕠𝕣𝕜:
+
+<img src="https://skillicons.dev/icons?i=flask,jquery,nodejs,pytorch,tensorflow,dotnet,unity,unreal,kafka,angular,vue,react,django&theme=dark&perline=10" alt="Logos">
 
 <!-- My tools -->
 ### :hammer_and_wrench: 𝕄𝕪 𝕥𝕠𝕠𝕝𝕤:
 
-<p>
-  <img src="https://img.icons8.com/?size=48&id=13677&format=png" alt="Photoshop" align="left">
-  <img src="https://img.icons8.com/?size=48&id=108781&format=png" alt="After Effects" align="left">
-  <img src="https://img.icons8.com/?size=48&id=e57Y1CnsOasB&format=png" alt="Premiere Pro" align="left">
-  <img src="https://img.icons8.com/?size=48&id=13631&format=png" alt="Illustrator" align="left">
-</p>
-
-<br>
-<br>
-<br>
+<img src="https://skillicons.dev/icons?i=ps,ae,pr,ai,xd,git,docker,wordpress,linux,windows,blender&theme=dark&perline=10" alt="Logos">
 
 <!-- My IDE -->
 ### :computer: 𝕀𝔻𝔼𝕤 𝕀 𝕦𝕤𝕖:
 
-<p>
-  <img src="https://img.icons8.com/?size=48&id=jUw5rFZE2a5d&format=png" alt="JetBrains Toolbox" align="left">
-  <img src="https://img.icons8.com/?size=48&id=ezj3zaVtImPg&format=png" alt="Visual Studio" align="left">
-  <img src="https://img.icons8.com/?size=48&id=9OGIyU8hrxW5&format=png" alt="Visual Studio Code" align="left">
-</p>
-
-<br>
-<br>
-<br>
+<img src="https://skillicons.dev/icons?i=pycharm,clion,phpstorm,webstorm,rider,vscode,visualstudio,octave,arduino,atom,anaconda,androidstudio&theme=dark&perline=10" alt="Logos">
 
 ### :fire: 𝕄𝕪 𝕊𝕥𝕒𝕥𝕤:
 
