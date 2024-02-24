@@ -13,6 +13,24 @@
 
 <br>
 
+<!-- My contects -->
+### :satellite: ℂ𝕠𝕟𝕥𝕒𝕔𝕥 𝕞𝕖:
+
+<div id="badges" align="center">
+  <a href="https://vk.com/bogdan_klimov">
+    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white&size=30" alt="VK Badge"/>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/bogdanklimov">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/ghost_777_24?igsh=aHdwa2s1cTIzbmhw&utm_source=qr">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/profile.php?id=100033935590093&mibextid=LQQJ4d">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+</div>
+
 <!-- My achievements -->
 ### :trophy: 𝔾𝕚𝕥ℍ𝕦𝕓 ℙ𝕣𝕠𝕗𝕚𝕝𝕖 𝕋𝕣𝕠𝕡𝕙𝕪:
 
