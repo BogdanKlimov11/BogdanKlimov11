@@ -38,8 +38,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=BogdanKlimov11&theme=tokyonight" alt="Achievements">
 </p>
 
-<br>
-
 <!-- My goals and interests -->
 ### :memo: 𝕄𝕪 𝕘𝕠𝕒𝕝𝕤 𝕒𝕟𝕕 𝕚𝕟𝕥𝕖𝕣𝕖𝕤𝕥𝕤:
 
