@@ -95,8 +95,10 @@
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/54d93c0b-041b-4b1d-b839-36d8a96cef3c" alt="Git" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/b534c5a6-ad0d-4c73-a3c6-21ab1ad333b3" alt="Docker" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/295b2fa1-2f76-4763-bcfe-897e6416e7fe" alt="Wordpress" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/96492454-1e53-4575-8598-8c1b0716204c" alt="Linux" width="45px" height="45px"> &nbsp; <br>
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/d0a28c16-cb18-41ea-bd09-9683151538ac" alt="Tilda" width="45px" height="45px"> &nbsp; <br>
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/96492454-1e53-4575-8598-8c1b0716204c" alt="Linux" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/d63a4048-53c4-4b2e-bb63-51029d87cfcc" alt="Windows" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/5203f4cb-2ea7-4e59-9a3d-2d56084f5fc5" alt="iOS" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/9668d142-a705-4eb0-b0f2-f99e939a3f47" alt="Blender" width="45px" height="45px">
 
 <!-- My IDE -->
@@ -107,10 +109,12 @@
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/3d24cab7-1edf-4cb6-b674-2b65d91e783d" alt="CLion" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/f8a021c4-5da2-4b89-bd86-83a4e65db3dc" alt="WebStorm" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/95447632-17ef-43ee-9e81-a951098871c2" alt="DataSpell" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/eb02078c-02b5-4be5-a5bc-86850b8de199" alt="DataGrip" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/bf6b8429-335c-4eac-9389-05c566556fd9" alt="PhpStorm" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/22746914-3d81-42db-96c1-23475b17e97d" alt="Rider" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/411429d9-e998-4bf2-b81c-1f1a1b0bb48b" alt="Jupyter" width="45px" height="45px"> &nbsp; <br>
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/6890517a-da55-4ea0-8de7-46be48394124" alt="Visual Studio" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/bd17ebce-d362-4000-8fd9-e9ae83b4248d" alt="Visual Studio Code" width="45px" height="45px"> &nbsp; <br>
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/bd17ebce-d362-4000-8fd9-e9ae83b4248d" alt="Visual Studio Code" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/733955ac-cf67-434a-a783-8f03cced968d" alt="Arduino IDE" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/5348d0de-e255-49d1-9255-d3c2f7bd5825" alt="Atom" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/8e43793b-2712-4b9f-b554-97f070fd914e" alt="Anaconda" width="45px" height="45px"> &nbsp;
@@ -133,20 +137,20 @@
 <h4>🎯 𝕀 𝕤𝕡𝕖𝕒𝕜 𝕝𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤:</h4>
 
 <ul>
-    <li><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/dcb1abad-f007-4595-ba93-6b125e67a15b" alt="Russian" width="20px" height="12px"> ℝ𝕦𝕤𝕤𝕚𝕒𝕟 (ℕ𝕒𝕥𝕚𝕧𝕖)</li>
-    <li><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/c3cbff4f-7966-49d6-818e-0c0d28e23e2d" alt="English" width="20px" height="12px"> 𝔼𝕟𝕘𝕝𝕚𝕤𝕙 (𝔸𝟚)</li>
-    <li><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/e61d2c12-1f64-4522-b64f-ee7498cbce6a" alt="German" width="20px" height="12px"> 𝔾𝕖𝕣𝕞𝕒𝕟 (𝔸𝟙)</li>
+    <li><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/dcb1abad-f007-4595-ba93-6b125e67a15b" alt="Russian" width="20px" height="12px"> &nbsp; ℝ𝕦𝕤𝕤𝕚𝕒𝕟 (ℕ𝕒𝕥𝕚𝕧𝕖)</li>
+    <li><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/c3cbff4f-7966-49d6-818e-0c0d28e23e2d" alt="English" width="20px" height="12px"> &nbsp; 𝔼𝕟𝕘𝕝𝕚𝕤𝕙 (𝔸𝟚)</li>
+    <li><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/e61d2c12-1f64-4522-b64f-ee7498cbce6a" alt="German" width="20px" height="12px"> &nbsp; 𝔾𝕖𝕣𝕞𝕒𝕟 (𝔸𝟙)</li>
 </ul>
 
 <h4>🎓 𝕀 𝕤𝕥𝕦𝕕𝕪 𝕝𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤:</h4>
 
 <ul>
-    <li><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/4f189db8-2b34-44e8-afae-2412df2ca991" alt="French" width="20px" height="12px"> 𝔽𝕣𝕖𝕟𝕔𝕙</li>
-    <li><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/cc07d4c6-7180-41ef-9293-ede23491ceb1" alt="Spanish" width="20px" height="12px"> 𝕊𝕡𝕒𝕟𝕚𝕤𝕙</li>
-    <li><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/80dd124c-e721-4e86-9b2b-87b6898adfa3" alt="Italian" width="20px" height="12px"> 𝕀𝕥𝕒𝕝𝕚𝕒𝕟</li>
-    <li><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/432d52f7-5921-46b8-8cf8-8c76ad4bcc30" alt="Japanese" width="20px" height="12px"> 𝕁𝕒𝕡𝕒𝕟𝕖𝕤𝕖</li>
-    <li><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/1bb43b9e-e42e-45f4-89e2-7c3a2a694847" alt="Chinese" width="20px" height="12px"> ℂ𝕙𝕚𝕟𝕖𝕤𝕖</li>
-    <li><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/6e0981cc-7b3d-4d1a-8066-af7370980ab6" alt="Korean" width="20px" height="12px"> 𝕂𝕠𝕣𝕖𝕒𝕟</li>
+    <li><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/4f189db8-2b34-44e8-afae-2412df2ca991" alt="French" width="20px" height="12px"> &nbsp; 𝔽𝕣𝕖𝕟𝕔𝕙</li>
+    <li><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/cc07d4c6-7180-41ef-9293-ede23491ceb1" alt="Spanish" width="20px" height="12px"> &nbsp; 𝕊𝕡𝕒𝕟𝕚𝕤𝕙</li>
+    <li><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/80dd124c-e721-4e86-9b2b-87b6898adfa3" alt="Italian" width="20px" height="12px"> &nbsp; 𝕀𝕥𝕒𝕝𝕚𝕒𝕟</li>
+    <li><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/432d52f7-5921-46b8-8cf8-8c76ad4bcc30" alt="Japanese" width="20px" height="12px"> &nbsp; 𝕁𝕒𝕡𝕒𝕟𝕖𝕤𝕖</li>
+    <li><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/1bb43b9e-e42e-45f4-89e2-7c3a2a694847" alt="Chinese" width="20px" height="12px"> &nbsp; ℂ𝕙𝕚𝕟𝕖𝕤𝕖</li>
+    <li><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/6e0981cc-7b3d-4d1a-8066-af7370980ab6" alt="Korean" width="20px" height="12px"> &nbsp; 𝕂𝕠𝕣𝕖𝕒𝕟</li>
 </ul>
 
 
