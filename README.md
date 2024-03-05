@@ -159,4 +159,4 @@
 
 <h4>🚀 𝕄𝕪 𝕃𝕖𝕖𝕥𝕔𝕠𝕕𝕖 𝕡𝕣𝕠𝕗𝕚𝕝𝕖:</h4>
 
-<a href="https://leetcode-stats-six.vercel.app/api?username=BogdanKlimov11&theme=dark"><img src="https://github.com/BogdanKlimov11/leetcode-stats" alt="LeetCode stats"></a>
+<a href="https://github.com/BogdanKlimov11/leetcode-stats"><img src="https://leetcode-stats-six.vercel.app/api?username=BogdanKlimov11&theme=dark" alt="Leetcode stats" width="49.7%" height="auto"></a>
