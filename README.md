@@ -59,7 +59,9 @@
 <a href="https://github.com/BogdanKlimov11/Ruby_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/f2f86a17-172a-40b8-bdc3-75f62c91a29e" alt="Ruby" width="45px" height="45px"></a> &nbsp;
 <a href="https://github.com/BogdanKlimov11/Go_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/301bd5e1-c51b-43b2-87d2-0c68b3b277ce" alt="Go" width="45px" height="45px"></a> &nbsp;
 <a href="https://github.com/BogdanKlimov11/Rust_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/f06e983e-e699-4609-b5c5-9b579215b8e2" alt="Rust" width="45px" height="45px"></a> &nbsp;
-<a href="https://github.com/BogdanKlimov11/MatLab_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/a21fc076-8c45-49b1-9a61-1c24ee3d6d36" alt="MatLab" width="45px" height="45px"></a>
+<a href="https://github.com/BogdanKlimov11/MatLab_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/a21fc076-8c45-49b1-9a61-1c24ee3d6d36" alt="MatLab" width="45px" height="45px"></a> &nbsp; <br>
+<a href="https://github.com/BogdanKlimov11/Markdown_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/0be578e4-180e-4221-b9c5-a56667d8bd4d" alt="Markdown" width="45px" height="45px"></a> &nbsp;
+<a href="https://github.com/BogdanKlimov11/Pascal_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/1b416931-81b2-4a85-b3ae-7792cb71a290" alt="Pascal" width="45px" height="45px"></a>
 
 <!-- My framework -->
 <h3>💼 𝕄𝕪 𝕗𝕣𝕒𝕞𝕖𝕨𝕠𝕣𝕜:</h3>
