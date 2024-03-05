@@ -160,3 +160,17 @@
 <h4>🚀 𝕄𝕪 𝕃𝕖𝕖𝕥𝕔𝕠𝕕𝕖 𝕡𝕣𝕠𝕗𝕚𝕝𝕖:</h4>
 
 <a href="https://github.com/BogdanKlimov11/leetcode-stats"><img src="https://leetcode-stats-six.vercel.app/api?username=BogdanKlimov11&theme=dark" alt="Leetcode stats" width="49.7%" height="auto"></a>
+
+<h3>🖊️ 𝔸𝕓𝕠𝕦𝕥 𝕞𝕖:</h3>
+
+<h4>📢 𝕄𝕪 𝕙𝕠𝕓𝕓𝕚𝕖𝕤 𝕒𝕟𝕕 𝕖𝕟𝕥𝕖𝕣𝕥𝕒𝕚𝕟𝕞𝕖𝕟𝕥:</h4>
+
+<ul>
+    <li>🏀 𝕀 𝕝𝕚𝕜𝕖 𝕤𝕡𝕠𝕣𝕥. 𝕀 𝕡𝕝𝕒𝕪 𝕓𝕒𝕤𝕜𝕖𝕥𝕓𝕒𝕝𝕝, 𝕗𝕠𝕠𝕥𝕓𝕒𝕝𝕝 𝕒𝕟𝕕 𝕤𝕨𝕚𝕞.</li>
+    <li>⌨️ 𝕀 𝕙𝕒𝕧𝕖 𝕥𝕠𝕦𝕔𝕙 𝕥𝕪𝕡𝕚𝕟𝕘 𝕤𝕜𝕚𝕝𝕝𝕤.</li>
+    <li>👨‍💻 𝕀 𝕕𝕣𝕖𝕒𝕞 𝕠𝕗 𝕓𝕖𝕔𝕠𝕞𝕚𝕟𝕘 𝕒 𝕙𝕚𝕘𝕙𝕝𝕪 𝕢𝕦𝕒𝕝𝕚𝕗𝕚𝕖𝕕 𝔻𝕒𝕥𝕒 𝕊𝕔𝕚𝕖𝕟𝕥𝕚𝕤𝕥.</li>
+</ul>
+
+<h4>🎵 𝕄𝕪 𝕊𝕡𝕠𝕥𝕚𝕗𝕪 𝕡𝕣𝕠𝕗𝕚𝕝𝕖:</h4>
+
+<a href="https://github.com/BogdanKlimov11/spotify-github-profile"><img src="https://spotify-github-profile.vercel.app/api/view?uid=316avvgqriej7ktrfybyf7d6377u&cover_image=true&theme=default&show_offline=false&background_color=292a2b&interchange=true&bar_color=3fca62&bar_color_cover=false" alt="Spotify profile"  width="49.7%" height="auto"></a>
