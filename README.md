@@ -25,7 +25,8 @@
 <a href="https://vk.com/bogdan_klimov"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/75b2c161-3d1c-4711-9eb7-e2c63ee052be" alt="VK" width="45px" height="45px"></a> &nbsp;
 <a href="https://t.me/bogdanklimov"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/d55ff808-ede2-4ca2-aa92-41c987ce9c57" alt="Telegram" width="45px" height="45px"></a> &nbsp;
 <a href="https://www.facebook.com/profile.php?id=100033935590093&mibextid=LQQJ4d"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/b4a0f683-db6f-4a34-a47d-8f4a436448f2" alt="Facebook" width="45px" height="45px"></a> &nbsp;
-<a href="https://twitter.com/ghost_777_24"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/408f9b81-2d4e-47af-b1af-14315528311f" alt="Twitter" width="45px" height="45px"></a>
+<a href="https://twitter.com/ghost_777_24"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/408f9b81-2d4e-47af-b1af-14315528311f" alt="Twitter" width="45px" height="45px"></a> &nbsp;
+<a href="https://discordapp.com/users/746195456127795311/"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/12127d64-221b-484a-93e7-3a7c69b2194a" alt="Discord" width="45px" height="45px"></a>
 
 <!-- My achievements -->
 <h3>🏆 𝔾𝕚𝕥ℍ𝕦𝕓 ℙ𝕣𝕠𝕗𝕚𝕝𝕖 𝕋𝕣𝕠𝕡𝕙𝕪:</h3>
