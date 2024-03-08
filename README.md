@@ -168,7 +168,7 @@
 
 <h4>🚀 𝕄𝕪 𝕊𝕥𝕒𝕔𝕜𝕆𝕧𝕖𝕣𝕗𝕝𝕠𝕨 𝕡𝕣𝕠𝕗𝕚𝕝𝕖:</h4>
 
-<a href="https://stackoverflow.com/users/23562548/omid-nikrah"><img src="https://github-readme-stackoverflow.vercel.app/?userID=23562548&theme=dark" alt="StackOverflow stats" width="25%" height="auto"></a>
+<a href="https://stackoverflow.com/users/23562548/omid-nikrah"><img src="https://github-readme-stackoverflow.vercel.app/?userID=23562548&theme=dark" alt="StackOverflow stats" width="49.7%" height="auto"></a>
 
 <h3>🖊️ 𝔸𝕓𝕠𝕦𝕥 𝕞𝕖:</h3>
 
