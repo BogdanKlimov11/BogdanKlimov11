@@ -166,9 +166,9 @@
 <a href="https://www.codewars.com/users/BogdanKlimov11"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/2d6c1b07-e74a-4fcd-a0e0-be221dbecaea" alt="Codewars link" width="45px" height="45px"></a> &nbsp; &nbsp; &nbsp;
 <a href="https://www.codewars.com/users/BogdanKlimov11"><img src="https://www.codewars.com/users/BogdanKlimov11/badges/large" alt="Codewars stats"></a>
 
-<h4>🚀 𝕄𝕪 𝕃𝕖𝕖𝕥𝕔𝕠𝕕𝕖 𝕡𝕣𝕠𝕗𝕚𝕝𝕖:</h4>
+<h4>🚀 𝕄𝕪 𝕊𝕥𝕒𝕔𝕜𝕆𝕧𝕖𝕣𝕗𝕝𝕠𝕨 𝕡𝕣𝕠𝕗𝕚𝕝𝕖:</h4>
 
-<a href="https://github.com/BogdanKlimov11/leetcode-stats"><img src="https://leetcode-stats-six.vercel.app/api?username=BogdanKlimov11&theme=dark" alt="Leetcode stats" width="49.7%" height="auto"></a>
+<a href="https://stackoverflow.com/users/23562548/omid-nikrah"><img src="https://github-readme-stackoverflow.vercel.app/?userID=23562548&theme=dark" alt="StackOverflow stats" width="25%" height="auto"></a>
 
 <h3>🖊️ 𝔸𝕓𝕠𝕦𝕥 𝕞𝕖:</h3>
 
@@ -182,4 +182,4 @@
 
 <h4>🎵 𝕄𝕪 𝕊𝕡𝕠𝕥𝕚𝕗𝕪 𝕡𝕣𝕠𝕗𝕚𝕝𝕖:</h4>
 
-<a href="https://github.com/BogdanKlimov11/spotify-github-profile"><img src="https://spotify-github-profile.vercel.app/api/view?uid=316avvgqriej7ktrfybyf7d6377u&cover_image=true&theme=default&show_offline=false&background_color=292a2b&interchange=true&bar_color=3fca62&bar_color_cover=false" alt="Spotify profile"  width="49.7%" height="auto"></a>
+<a href="https://github.com/BogdanKlimov11/spotify-github-profile"><img src="https://spotify-github-profile.vercel.app/api/view?uid=316avvgqriej7ktrfybyf7d6377u&cover_image=true&theme=default&show_offline=false&background_color=292a2b&interchange=true&bar_color=3fca62&bar_color_cover=false" alt="Spotify profile" width="49.7%" height="auto"></a>
