@@ -136,7 +136,7 @@
 <h4>🦉 𝕄𝕪 𝔻𝕦𝕠𝕝𝕚𝕟𝕘𝕠 𝕡𝕣𝕠𝕗𝕚𝕝𝕖:</h4>
 
 <a href="https://www.duolingo.com/profile/BogdanKlimov11"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/ca8cfe4a-11df-4bd1-bde5-cc16c72c3c59" alt="Duolingo" width="45px" height="45px"></a> &nbsp; &nbsp; &nbsp;
-<a href="https://www.duolingo.com/profile/BogdanKlimov11?via=share_profile"><img src="https://img.shields.io/badge/BogdanKlimov11_(20_000_XP)-05122A?style=flat&logo=Duolingo" alt="Duolingo stats" width="auto" height="36px"></a>
+<a href="https://www.duolingo.com/profile/BogdanKlimov11?via=share_profile"><img src="https://img.shields.io/badge/BogdanKlimov11_(20_000_XP)-05122A?style=flat&logo=Duolingo" alt="Duolingo stats" width="auto" height="42px"></a>
 
 
 <h4>🎯 𝕀 𝕤𝕡𝕖𝕒𝕜 𝕝𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤:</h4>
