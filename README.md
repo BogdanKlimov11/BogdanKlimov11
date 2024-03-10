@@ -79,7 +79,7 @@
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/6fbd12ec-3f5a-4ee4-9fca-90c1d3c85f01" alt="Node.js" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/32f29ffd-0eab-497c-a766-5dfc1eb4e94a" alt="Django" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/ed989df8-22c5-4dac-853a-32b92d2348a4" alt="Pyramid" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/04a37a7e-8c52-4263-934c-536eba86fe9c" alt="Flask" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/a5675197-e6f4-4b2a-b9cd-bb65b9421b47" alt="Flask" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/e8e8f4f8-250e-48a3-8f2b-0fc601832fe2" alt="Pandas" width="45px" height="45px"> &nbsp; <br>
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/5e7ce8fe-b11c-4396-8037-e045537cc63c" alt="NumPy" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/ae030567-7cd4-4190-a13b-13c6174228cb" alt="Matplotlib" width="45px" height="45px"> &nbsp;
@@ -89,8 +89,8 @@
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/5f96fc2d-88ea-48a6-b480-2b9606bd6aea" alt="PyTorch" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/6631e372-8ca8-4198-8206-0ce932a1d45e" alt="DotNet" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/9cc7d0e0-2488-43a2-9bd3-e92a48cb4999" alt="Unity" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/49e186ca-0371-41f4-9789-b0b9dbe9a3c9" alt="Unreal" width="45px" height="45px"> &nbsp; <br>
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/967f3beb-ba60-4b66-a04d-2769db32ce71" alt="Kafka" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/a3d9c829-fce1-4a50-9b4f-84de6ca4efe3" alt="Unreal" width="45px" height="45px"> &nbsp; <br>
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/f7434797-0409-4801-9931-59615f44637f" alt="Kafka" width="45px" height="45px"> &nbsp;
 
 <!-- My tools -->
 <h3>🛠️ 𝕄𝕪 𝕥𝕠𝕠𝕝𝕤:</h3>
@@ -103,7 +103,7 @@
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/54d93c0b-041b-4b1d-b839-36d8a96cef3c" alt="Git" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/b534c5a6-ad0d-4c73-a3c6-21ab1ad333b3" alt="Docker" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/295b2fa1-2f76-4763-bcfe-897e6416e7fe" alt="Wordpress" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/d0a28c16-cb18-41ea-bd09-9683151538ac" alt="Tilda" width="45px" height="45px"> &nbsp; <br>
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/2ec992ea-5de2-4314-8a91-50bae22c6a3e" alt="Tilda" width="45px" height="45px"> &nbsp; <br>
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/96492454-1e53-4575-8598-8c1b0716204c" alt="Linux" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/d63a4048-53c4-4b2e-bb63-51029d87cfcc" alt="Windows" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/5203f4cb-2ea7-4e59-9a3d-2d56084f5fc5" alt="iOS" width="45px" height="45px"> &nbsp;
