@@ -148,7 +148,7 @@
 
 <h4>🦉 𝕄𝕪 𝔻𝕦𝕠𝕝𝕚𝕟𝕘𝕠 𝕡𝕣𝕠𝕗𝕚𝕝𝕖:</h4>
 
-<a href="https://www.duolingo.com/profile/BogdanKlimov11"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/ca8cfe4a-11df-4bd1-bde5-cc16c72c3c59" alt="Duolingo" width="45px" height="45px"></a> &nbsp; &nbsp; &nbsp;
+<a href="https://www.duolingo.com/profile/BogdanKlimov11"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/ca8cfe4a-11df-4bd1-bde5-cc16c72c3c59" alt="Duolingo link" title="Duolingo link" width="45px" height="45px"></a> &nbsp; &nbsp; &nbsp;
 <a href="https://www.duolingo.com/profile/BogdanKlimov11?via=share_profile"><img src="https://img.shields.io/badge/BogdanKlimov11_(20_000_XP)-05122A?style=flat&logo=Duolingo" alt="Duolingo stats" width="auto" height="42px"></a>
 
 
@@ -176,7 +176,7 @@
 
 <h4>⚔️ 𝕄𝕪 ℂ𝕠𝕕𝕖𝕨𝕒𝕣𝕤 𝕡𝕣𝕠𝕗𝕚𝕝𝕖:</h4>
 
-<a href="https://www.codewars.com/users/BogdanKlimov11"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/2d6c1b07-e74a-4fcd-a0e0-be221dbecaea" alt="Codewars link" width="45px" height="45px"></a> &nbsp; &nbsp; &nbsp;
+<a href="https://www.codewars.com/users/BogdanKlimov11"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/2d6c1b07-e74a-4fcd-a0e0-be221dbecaea" alt="Codewars link" title="Codewars link" width="45px" height="45px"></a> &nbsp; &nbsp; &nbsp;
 <a href="https://www.codewars.com/users/BogdanKlimov11"><img src="https://www.codewars.com/users/BogdanKlimov11/badges/large" alt="Codewars stats"></a>
 
 <h4>🚀 𝕄𝕪 𝕊𝕥𝕒𝕔𝕜𝕆𝕧𝕖𝕣𝕗𝕝𝕠𝕨 𝕡𝕣𝕠𝕗𝕚𝕝𝕖:</h4>
