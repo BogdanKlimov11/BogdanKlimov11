@@ -90,6 +90,7 @@
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/6631e372-8ca8-4198-8206-0ce932a1d45e" alt="DotNet" title="DotNet" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/9cc7d0e0-2488-43a2-9bd3-e92a48cb4999" alt="Unity" title="Unity" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/a3d9c829-fce1-4a50-9b4f-84de6ca4efe3" alt="Unreal Engine" title="Unreal Engine" width="45px" height="45px"> &nbsp; <br>
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/07c79fbc-62d9-43ca-a9d3-1b4024d7ad14" alt="Godot Engine" title="Godot Engine" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/f7434797-0409-4801-9931-59615f44637f" alt="Kafka" title="Kafka" width="45px" height="45px"> &nbsp;
 
 <!-- My tools -->
