@@ -53,7 +53,7 @@
 <a href="https://github.com/BogdanKlimov11/CSS_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/6e7d4769-af93-48a5-954e-e3b3991c588d" alt="CSS" title="CSS" width="45px" height="45px"></a> &nbsp;
 <a href="https://github.com/BogdanKlimov11/JavaScript_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/f2fee5fa-c680-4024-b66a-a3ea5d4576fb" alt="JavaScript" title="JavaScript" width="45px" height="45px"></a> &nbsp;
 <a href="https://github.com/BogdanKlimov11/MatLab_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/a21fc076-8c45-49b1-9a61-1c24ee3d6d36" alt="MatLab" title="MatLab" width="45px" height="45px"></a> &nbsp;
-<a href="https://github.com/BogdanKlimov11/Pascal_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/1b416931-81b2-4a85-b3ae-7792cb71a290" alt="Pascal" title="Pascal" width="45px" height="45px"></a>
+<a href="https://github.com/BogdanKlimov11/Pascal_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/e175a0a2-a262-4fd2-8bdc-c3d1165cbc36" alt="Object Pascal" title="Object Pascal" width="45px" height="45px"></a>
 
 <h4>🧐 𝕊𝕥𝕚𝕝𝕝 𝕤𝕥𝕦𝕕𝕪𝕚𝕟𝕘:</h4>
 
@@ -92,6 +92,9 @@
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/a3d9c829-fce1-4a50-9b4f-84de6ca4efe3" alt="Unreal Engine" title="Unreal Engine" width="45px" height="45px"> &nbsp; <br>
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/07c79fbc-62d9-43ca-a9d3-1b4024d7ad14" alt="Godot Engine" title="Godot Engine" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/f7434797-0409-4801-9931-59615f44637f" alt="Kafka" title="Kafka" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/0ee72a8b-377e-41b0-9829-43f6a188d7cb" alt="Oxidation Compiler" title="Oxidation Compiler" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/cabb303a-ab84-4de5-833e-ee2322348368" alt="Deno" title="Deno" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/da58e55a-6572-40b8-9a3c-7b395921045a" alt="Tauri" title="Tauri" width="45px" height="45px"> &nbsp;
 
 <!-- My tools -->
 <h3>🛠️ 𝕄𝕪 𝕥𝕠𝕠𝕝𝕤:</h3>
