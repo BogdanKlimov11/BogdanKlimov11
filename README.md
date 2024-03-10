@@ -10,12 +10,12 @@
 
 <!-- Сurrent information -->
 <div align="center">
-  <img src="https://img.shields.io/github/stars/BogdanKlimov11?style=flat&logo=github" alt="Stars"/> &nbsp;
-  <img src="https://img.shields.io/badge/status-up-brightgreen" alt="Status"/> &nbsp;
-  <img src="https://img.shields.io/github/followers/BogdanKlimov11?style=flat&logo=github" alt="Followers"/> &nbsp;
-  <img src="https://img.shields.io/github/last-commit/BogdanKlimov11/BogdanKlimov11" alt="Last commit"/> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=BogdanKlimov11" alt="Counter"> &nbsp;
-  <img src="https://img.shields.io/github/forks/madushadhanushka/simple-sqlite?style=flat&color=brightgreen" alt="Forks"/>
+    <img src="https://img.shields.io/github/stars/BogdanKlimov11?style=flat&logo=github" alt="Stars"/> &nbsp;
+    <img src="https://img.shields.io/badge/status-up-brightgreen" alt="Status"/> &nbsp;
+    <img src="https://img.shields.io/github/followers/BogdanKlimov11?style=flat&logo=github" alt="Followers"/> &nbsp;
+    <img src="https://img.shields.io/github/last-commit/BogdanKlimov11/BogdanKlimov11" alt="Last commit"/> &nbsp;
+    <img src="https://komarev.com/ghpvc/?username=BogdanKlimov11" alt="Counter"> &nbsp;
+    <img src="https://img.shields.io/github/forks/madushadhanushka/simple-sqlite?style=flat&color=brightgreen" alt="Forks"/>
 </div>
 
 <!-- My contects -->
@@ -43,6 +43,8 @@
 <!-- My skills -->
 <h3>⚡ 𝕄𝕪 𝕤𝕜𝕚𝕝𝕝𝕤:</h3>
 
+<h4>😎 𝔸𝕝𝕣𝕖𝕒𝕕𝕪 𝕞𝕒𝕤𝕥𝕖𝕣𝕖𝕕:</h4>
+
 <a href="https://github.com/BogdanKlimov11/Python_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/d94bbe7d-57d1-4bc0-b824-f25637441f6f" alt="Python" width="45px" height="45px"></a> &nbsp;
 <a href="https://github.com/BogdanKlimov11/C_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/48f55978-905a-4e1c-a6b4-2bacc74fbedc" alt="C" width="45px" height="45px"></a> &nbsp;
 <a href="https://github.com/BogdanKlimov11/C_plus_plus_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/cd95a93e-00fa-4bfe-bdac-75efc5f08a3a" alt="C++" width="45px" height="45px"></a> &nbsp;
@@ -50,19 +52,22 @@
 <a href="https://github.com/BogdanKlimov11/HTML_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/d2c8a5b8-34cc-4530-bcca-b7046a1f1e0a" alt="HTML" width="45px" height="45px"></a> &nbsp;
 <a href="https://github.com/BogdanKlimov11/CSS_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/6e7d4769-af93-48a5-954e-e3b3991c588d" alt="CSS" width="45px" height="45px"></a> &nbsp;
 <a href="https://github.com/BogdanKlimov11/JavaScript_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/f2fee5fa-c680-4024-b66a-a3ea5d4576fb" alt="JavaScript" width="45px" height="45px"></a> &nbsp;
+<a href="https://github.com/BogdanKlimov11/MatLab_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/a21fc076-8c45-49b1-9a61-1c24ee3d6d36" alt="MatLab" width="45px" height="45px"></a> &nbsp;
+<a href="https://github.com/BogdanKlimov11/Pascal_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/1b416931-81b2-4a85-b3ae-7792cb71a290" alt="Pascal" width="45px" height="45px"></a>
+
+<h4>🧐 𝕊𝕥𝕚𝕝𝕝 𝕤𝕥𝕦𝕕𝕪𝕚𝕟𝕘:</h4>
+
 <a href="https://github.com/BogdanKlimov11/Java_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/a01c699f-4d3f-4f68-9b02-5bf3ca99a339" alt="Java" width="45px" height="45px"></a> &nbsp;
-<a href="https://github.com/BogdanKlimov11/PHP_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/fccdc246-43b4-4e12-b236-35d8acca6c03" alt="PHP" width="45px" height="45px"></a> &nbsp; <br>
+<a href="https://github.com/BogdanKlimov11/PHP_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/fccdc246-43b4-4e12-b236-35d8acca6c03" alt="PHP" width="45px" height="45px"></a> &nbsp;
 <a href="https://github.com/BogdanKlimov11/MySQL_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/b8e69afd-9c0e-48c4-b331-2127a282e99c" alt="MySQL" width="45px" height="45px"></a> &nbsp;
 <a href="https://github.com/BogdanKlimov11/Bash_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/fbd9fc63-afad-4fe1-acce-6ada01b9e24f" alt="Bash" width="45px" height="45px"></a> &nbsp;
 <a href="https://github.com/BogdanKlimov11/Kotlin_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/c69c9f18-b387-4905-85b4-a2bf069a7480" alt="Kotlin" width="45px" height="45px"></a> &nbsp;
 <a href="https://github.com/BogdanKlimov11/TypeScript_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/c96c2bf6-e2b1-40a3-9a78-955c1de30d46" alt="TypeScript" width="45px" height="45px"></a> &nbsp;
 <a href="https://github.com/BogdanKlimov11/Swift_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/8573a2d2-a956-4af5-bd19-1c2ff52bc254" alt="Swift" width="45px" height="45px"></a> &nbsp;
 <a href="https://github.com/BogdanKlimov11/Ruby_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/f2f86a17-172a-40b8-bdc3-75f62c91a29e" alt="Ruby" width="45px" height="45px"></a> &nbsp;
-<a href="https://github.com/BogdanKlimov11/Go_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/301bd5e1-c51b-43b2-87d2-0c68b3b277ce" alt="Go" width="45px" height="45px"></a> &nbsp;
+<a href="https://github.com/BogdanKlimov11/Go_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/301bd5e1-c51b-43b2-87d2-0c68b3b277ce" alt="Go" width="45px" height="45px"></a> &nbsp; <br>
 <a href="https://github.com/BogdanKlimov11/Rust_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/f06e983e-e699-4609-b5c5-9b579215b8e2" alt="Rust" width="45px" height="45px"></a> &nbsp;
-<a href="https://github.com/BogdanKlimov11/MatLab_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/a21fc076-8c45-49b1-9a61-1c24ee3d6d36" alt="MatLab" width="45px" height="45px"></a> &nbsp; <br>
-<a href="https://github.com/BogdanKlimov11/Markdown_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/0be578e4-180e-4221-b9c5-a56667d8bd4d" alt="Markdown" width="45px" height="45px"></a> &nbsp;
-<a href="https://github.com/BogdanKlimov11/Pascal_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/1b416931-81b2-4a85-b3ae-7792cb71a290" alt="Pascal" width="45px" height="45px"></a>
+<a href="https://github.com/BogdanKlimov11/Markdown_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/3b69373a-4c87-48a9-85a8-94b911ae2d74" alt="Markdown" width="45px" height="45px"></a>
 
 <!-- My framework -->
 <h3>💼 𝕄𝕪 𝕗𝕣𝕒𝕞𝕖𝕨𝕠𝕣𝕜:</h3>
