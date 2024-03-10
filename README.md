@@ -18,6 +18,12 @@
     <img src="https://img.shields.io/github/forks/madushadhanushka/simple-sqlite?style=flat&color=brightgreen" alt="Forks"/>
 </div>
 
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BogdanKlimov11/BogdanKlimov11/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BogdanKlimov11/BogdanKlimov11/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BogdanKlimov11/BogdanKlimov11/output/github-contribution-grid-snake.svg" width="100%" height="auto">
+</picture>
+
 <!-- My contects -->
 <h3>📡 ℂ𝕠𝕟𝕥𝕒𝕔𝕥 𝕞𝕖:</h3>
 
