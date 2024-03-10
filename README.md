@@ -96,7 +96,7 @@
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/cabb303a-ab84-4de5-833e-ee2322348368" alt="Deno" title="Deno" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/da58e55a-6572-40b8-9a3c-7b395921045a" alt="Tauri" title="Tauri" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/a6b7fc19-a60e-4ab3-837a-eaeca7c8cffb" alt="Svelte" title="Svelte" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/de3c0093-b518-4df0-8456-4004ff4edd5b" alt="Vite" title="Vite" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/de3c0093-b518-4df0-8456-4004ff4edd5b" alt="Vite" title="Vite" width="45px" height="45px">
 
 <!-- My tools -->
 <h3>🛠️ 𝕄𝕪 𝕥𝕠𝕠𝕝𝕤:</h3>
@@ -113,7 +113,9 @@
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/96492454-1e53-4575-8598-8c1b0716204c" alt="Linux" title="Linux" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/d63a4048-53c4-4b2e-bb63-51029d87cfcc" alt="Windows" title="Windows" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/5203f4cb-2ea7-4e59-9a3d-2d56084f5fc5" alt="iOS" title="iOS" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/9668d142-a705-4eb0-b0f2-f99e939a3f47" alt="Blender" title="Blender" width="45px" height="45px">
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/9668d142-a705-4eb0-b0f2-f99e939a3f47" alt="Blender" title="Blender" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/06fed3a8-b513-4de6-8d05-7174ac49bc37" alt="GitHub" title="GitHub" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/f0bd85a3-e318-43e8-987f-f0ab84e4010c" alt="ChatGPT" title="ChatGPT" width="45px" height="45px">
 
 <!-- My IDE -->
 <h3>💻 𝕀𝔻𝔼𝕤 𝕀 𝕦𝕤𝕖:</h3>
