@@ -95,6 +95,8 @@
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/0ee72a8b-377e-41b0-9829-43f6a188d7cb" alt="Oxidation Compiler" title="Oxidation Compiler" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/cabb303a-ab84-4de5-833e-ee2322348368" alt="Deno" title="Deno" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/da58e55a-6572-40b8-9a3c-7b395921045a" alt="Tauri" title="Tauri" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/a6b7fc19-a60e-4ab3-837a-eaeca7c8cffb" alt="Svelte" title="Svelte" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/de3c0093-b518-4df0-8456-4004ff4edd5b" alt="Vite" title="Vite" width="45px" height="45px"> &nbsp;
 
 <!-- My tools -->
 <h3>🛠️ 𝕄𝕪 𝕥𝕠𝕠𝕝𝕤:</h3>
