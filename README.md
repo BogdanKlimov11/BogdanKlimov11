@@ -201,26 +201,26 @@
 
 <h3>📁 𝕄𝕪 𝕣𝕖𝕡𝕠𝕤𝕚𝕥𝕠𝕣𝕚𝕖𝕤:</h3>
 
-<a href="https://github.com/BogdanKlimov11/Python_course"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanKlimov11&repo=Python_course&theme=tokyonight" alt="Python course" width="33%" height="auto"></a>
-<a href="https://github.com/BogdanKlimov11/C_course"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanKlimov11&repo=C_course&theme=tokyonight" alt="C course" width="33%" height="auto"></a>
-<a href="https://github.com/BogdanKlimov11/C_plus_plus_course"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanKlimov11&repo=C_plus_plus_course&theme=tokyonight" alt="C++ course" width="33%" height="auto"></a>
-<a href="https://github.com/BogdanKlimov11/Swift_course"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanKlimov11&repo=Swift_course&theme=tokyonight" alt="Swift course" width="33%" height="auto"></a>
-<a href="https://github.com/BogdanKlimov11/Java_course"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanKlimov11&repo=Java_course&theme=tokyonight" alt="Java course" width="33%" height="auto"></a>
-<a href="https://github.com/BogdanKlimov11/JavaScript_course_course"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanKlimov11&repo=JavaScript_course&theme=tokyonight" alt="JavaScript course" width="33%" height="auto"></a>
-<a href="https://github.com/BogdanKlimov11/TypeScript_course_course"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanKlimov11&repo=TypeScript_course&theme=tokyonight" alt="TypeScript course" width="33%" height="auto"></a>
-<a href="https://github.com/BogdanKlimov11/Ruby_course"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanKlimov11&repo=Ruby_course&theme=tokyonight" alt="Ruby course" width="33%" height="auto"></a>
-<a href="https://github.com/BogdanKlimov11/Rust_course"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanKlimov11&repo=Rust_course&theme=tokyonight" alt="Rust course" width="33%" height="auto"></a>
-<a href="https://github.com/BogdanKlimov11/Assembler_course"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanKlimov11&repo=Assembler_course&theme=tokyonight" alt="Assembler course" width="33%" height="auto"></a>
-<a href="https://github.com/BogdanKlimov11/Go_course"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanKlimov11&repo=Go_course&theme=tokyonight" alt="Go course" width="33%" height="auto"></a>
-<a href="https://github.com/BogdanKlimov11/PHP_course"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanKlimov11&repo=PHP_course&theme=tokyonight" alt="PHP course" width="33%" height="auto"></a>
-<a href="https://github.com/BogdanKlimov11/Kotlin_course"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanKlimov11&repo=Kotlin_course&theme=tokyonight" alt="Kotlin course" width="33%" height="auto"></a>
-<a href="https://github.com/BogdanKlimov11/Pascal_course"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanKlimov11&repo=Pascal_course&theme=tokyonight" alt="Pascal course" width="33%" height="auto"></a>
-<a href="https://github.com/BogdanKlimov11/MatLab_course"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanKlimov11&repo=MatLab_course&theme=tokyonight" alt="MatLab course" width="33%" height="auto"></a>
-<a href="https://github.com/BogdanKlimov11/HTML_course"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanKlimov11&repo=HTML_course&theme=tokyonight" alt="HTML course" width="33%" height="auto"></a>
-<a href="https://github.com/BogdanKlimov11/CSS_course"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanKlimov11&repo=CSS_course&theme=tokyonight" alt="CSS course" width="33%" height="auto"></a>
-<a href="https://github.com/BogdanKlimov11/MySQL_course"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanKlimov11&repo=MySQL_course&theme=tokyonight" alt="MySQL course" width="33%" height="auto"></a>
-<a href="https://github.com/BogdanKlimov11/C_sharp_course"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanKlimov11&repo=C_sharp_course&theme=tokyonight" alt="C# course" width="33%" height="auto"></a>
-<a href="https://github.com/BogdanKlimov11/Bash_course"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanKlimov11&repo=Bash_course&theme=tokyonight" alt="Bash course" width="33%" height="auto"></a>
+<a href="https://github.com/BogdanKlimov11/Python_course"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanKlimov11&repo=Python_course&theme=tokyonight" alt="Python course" width="49.7%" height="auto"></a>
+<a href="https://github.com/BogdanKlimov11/C_course"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanKlimov11&repo=C_course&theme=tokyonight" alt="C course" width="49.7%" height="auto"></a>
+<a href="https://github.com/BogdanKlimov11/C_plus_plus_course"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanKlimov11&repo=C_plus_plus_course&theme=tokyonight" alt="C++ course" width="49.7%" height="auto"></a>
+<a href="https://github.com/BogdanKlimov11/Swift_course"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanKlimov11&repo=Swift_course&theme=tokyonight" alt="Swift course" width="49.7%" height="auto"></a>
+<a href="https://github.com/BogdanKlimov11/Java_course"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanKlimov11&repo=Java_course&theme=tokyonight" alt="Java course" width="49.7%" height="auto"></a>
+<a href="https://github.com/BogdanKlimov11/JavaScript_course_course"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanKlimov11&repo=JavaScript_course&theme=tokyonight" alt="JavaScript course" width="49.7%" height="auto"></a>
+<a href="https://github.com/BogdanKlimov11/TypeScript_course_course"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanKlimov11&repo=TypeScript_course&theme=tokyonight" alt="TypeScript course" width="49.7%" height="auto"></a>
+<a href="https://github.com/BogdanKlimov11/Ruby_course"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanKlimov11&repo=Ruby_course&theme=tokyonight" alt="Ruby course" width="49.7%" height="auto"></a>
+<a href="https://github.com/BogdanKlimov11/Rust_course"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanKlimov11&repo=Rust_course&theme=tokyonight" alt="Rust course" width="49.7%" height="auto"></a>
+<a href="https://github.com/BogdanKlimov11/Assembler_course"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanKlimov11&repo=Assembler_course&theme=tokyonight" alt="Assembler course" width="49.7%" height="auto"></a>
+<a href="https://github.com/BogdanKlimov11/Go_course"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanKlimov11&repo=Go_course&theme=tokyonight" alt="Go course" width="49.7%" height="auto"></a>
+<a href="https://github.com/BogdanKlimov11/PHP_course"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanKlimov11&repo=PHP_course&theme=tokyonight" alt="PHP course" width="49.7%" height="auto"></a>
+<a href="https://github.com/BogdanKlimov11/Kotlin_course"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanKlimov11&repo=Kotlin_course&theme=tokyonight" alt="Kotlin course" width="49.7%" height="auto"></a>
+<a href="https://github.com/BogdanKlimov11/Pascal_course"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanKlimov11&repo=Pascal_course&theme=tokyonight" alt="Pascal course" width="49.7%" height="auto"></a>
+<a href="https://github.com/BogdanKlimov11/MatLab_course"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanKlimov11&repo=MatLab_course&theme=tokyonight" alt="MatLab course" width="49.7%" height="auto"></a>
+<a href="https://github.com/BogdanKlimov11/HTML_course"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanKlimov11&repo=HTML_course&theme=tokyonight" alt="HTML course" width="49.7%" height="auto"></a>
+<a href="https://github.com/BogdanKlimov11/CSS_course"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanKlimov11&repo=CSS_course&theme=tokyonight" alt="CSS course" width="49.7%" height="auto"></a>
+<a href="https://github.com/BogdanKlimov11/MySQL_course"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanKlimov11&repo=MySQL_course&theme=tokyonight" alt="MySQL course" width="49.7%" height="auto"></a>
+<a href="https://github.com/BogdanKlimov11/C_sharp_course"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanKlimov11&repo=C_sharp_course&theme=tokyonight" alt="C# course" width="49.7%" height="auto"></a>
+<a href="https://github.com/BogdanKlimov11/Bash_course"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanKlimov11&repo=Bash_course&theme=tokyonight" alt="Bash course" width="49.7%" height="auto"></a>
 
 <h3>🖊️ 𝔸𝕓𝕠𝕦𝕥 𝕞𝕖:</h3>
 
