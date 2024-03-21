@@ -122,7 +122,8 @@
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/5203f4cb-2ea7-4e59-9a3d-2d56084f5fc5" alt="iOS" title="iOS" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/9668d142-a705-4eb0-b0f2-f99e939a3f47" alt="Blender" title="Blender" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/06fed3a8-b513-4de6-8d05-7174ac49bc37" alt="GitHub" title="GitHub" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/f0bd85a3-e318-43e8-987f-f0ab84e4010c" alt="ChatGPT" title="ChatGPT" width="45px" height="45px">
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/f0bd85a3-e318-43e8-987f-f0ab84e4010c" alt="ChatGPT" title="ChatGPT" width="45px" height="45px"> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Mathematica_Logo.svg/983px-Mathematica_Logo.svg.png" alt="Wolfram mathematica" title="Wolfram mathematica" width="45px" height="45px">
 
 <!-- My IDE -->
 <h3>💻 𝕀𝔻𝔼𝕤 𝕀 𝕦𝕤𝕖:</h3>
