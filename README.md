@@ -74,7 +74,10 @@
 <a href="https://github.com/BogdanKlimov11/Ruby_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/f2f86a17-172a-40b8-bdc3-75f62c91a29e" alt="Ruby" title="Ruby" width="45px" height="45px"></a> &nbsp;
 <a href="https://github.com/BogdanKlimov11/Go_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/301bd5e1-c51b-43b2-87d2-0c68b3b277ce" alt="Go" title="Go" width="45px" height="45px"></a> &nbsp; <br>
 <a href="https://github.com/BogdanKlimov11/Rust_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/f06e983e-e699-4609-b5c5-9b579215b8e2" alt="Rust" title="Rust" width="45px" height="45px"></a> &nbsp;
-<a href="https://github.com/BogdanKlimov11/Markdown_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/3b69373a-4c87-48a9-85a8-94b911ae2d74" alt="Markdown" title="Markdown" width="45px" height="45px"></a>
+<a href="https://github.com/BogdanKlimov11/Markdown_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/3b69373a-4c87-48a9-85a8-94b911ae2d74" alt="Markdown" title="Markdown" width="45px" height="45px"></a> &nbsp;
+<a href="https://github.com/BogdanKlimov11/LaTex_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/fc3591ac-e3ca-441c-bf68-1d7d2aacec52" alt="LaTex" title="LaTex" width="45px" height="45px"></a> &nbsp;
+<a href="https://github.com/BogdanKlimov11/Scala_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/234c959c-e6a5-4460-81d5-ecf37766f91d" alt="Scala" title="Scala" width="45px" height="45px"></a> &nbsp;
+<a href="https://github.com/BogdanKlimov11/Julia_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/54507f36-5648-469d-b2f8-fe7eefd032f1" alt="Julia" title="Julia" width="45px" height="45px"></a>
 
 <!-- My framework -->
 <h3>💼 𝕄𝕪 𝕗𝕣𝕒𝕞𝕖𝕨𝕠𝕣𝕜:</h3>
