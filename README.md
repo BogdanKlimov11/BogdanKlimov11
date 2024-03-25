@@ -107,7 +107,8 @@
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/cabb303a-ab84-4de5-833e-ee2322348368" alt="Deno" title="Deno" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/da58e55a-6572-40b8-9a3c-7b395921045a" alt="Tauri" title="Tauri" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/a6b7fc19-a60e-4ab3-837a-eaeca7c8cffb" alt="Svelte" title="Svelte" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/de3c0093-b518-4df0-8456-4004ff4edd5b" alt="Vite" title="Vite" width="45px" height="45px">
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/de3c0093-b518-4df0-8456-4004ff4edd5b" alt="Vite" title="Vite" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/d5178eb1-43e1-47ea-8468-c1c121435482" alt="Metasploit" title="Metasploit" width="45px" height="45px">
 
 <!-- My tools -->
 <h3>🛠️ 𝕄𝕪 𝕥𝕠𝕠𝕝𝕤:</h3>
@@ -127,7 +128,10 @@
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/9668d142-a705-4eb0-b0f2-f99e939a3f47" alt="Blender" title="Blender" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/06fed3a8-b513-4de6-8d05-7174ac49bc37" alt="GitHub" title="GitHub" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/f0bd85a3-e318-43e8-987f-f0ab84e4010c" alt="ChatGPT" title="ChatGPT" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/ede706a9-d02c-4b6f-a208-cf0a568f84dc" alt="Wolfram mathematica" title="Wolfram" width="45px" height="45px">
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/ede706a9-d02c-4b6f-a208-cf0a568f84dc" alt="Wolfram mathematica" title="Wolfram" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/ed143b06-8008-4726-bb36-dfb33be97c78" alt="Nmap" title="Nmap" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/6f8be38f-f1c1-4349-b8ad-e4e039b2a7ff" alt="Wireshark" title="Wireshark" width="45px" height="45px"> &nbsp; <br>
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/b4a172b9-6561-46f4-908c-bc897ea600cf" alt="Burp Suite" title="Burp Suite" width="45px" height="45px">
 
 <!-- My IDE -->
 <h3>💻 𝕀𝔻𝔼𝕤 𝕀 𝕦𝕤𝕖:</h3>
