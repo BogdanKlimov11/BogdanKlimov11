@@ -205,6 +205,10 @@
 <a href="https://www.codewars.com/users/BogdanKlimov11"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/2d6c1b07-e74a-4fcd-a0e0-be221dbecaea" alt="Codewars link" title="Codewars link" width="45px" height="45px"></a> &nbsp; &nbsp; &nbsp;
 <a href="https://www.codewars.com/users/BogdanKlimov11"><img src="https://www.codewars.com/users/BogdanKlimov11/badges/large" alt="Codewars stats"></a>
 
+<h4>📊 𝕄𝕪 𝕃𝕖𝕖𝕥ℂ𝕠𝕕𝕖 𝕡𝕣𝕠𝕗𝕚𝕝𝕖:</h4>
+
+<a href="https://github.com/KnlnKS/leetcode-stats"><img src="https://leetcode-stats-six.vercel.app/api?username=BogdanKlimov11&theme=dark" alt="LeetCode stats" width="49.7%" height="auto"></a>
+
 <h4>🚀 𝕄𝕪 𝕊𝕥𝕒𝕔𝕜𝕆𝕧𝕖𝕣𝕗𝕝𝕠𝕨 𝕡𝕣𝕠𝕗𝕚𝕝𝕖:</h4>
 
 <a href="https://stackoverflow.com/users/23562548/omid-nikrah"><img src="https://github-readme-stackoverflow.vercel.app/?userID=23562548&theme=dark" alt="StackOverflow stats" width="49.7%" height="auto"></a>
