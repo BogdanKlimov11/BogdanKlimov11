@@ -251,3 +251,7 @@
 <h4>🎵 𝕄𝕪 𝕊𝕡𝕠𝕥𝕚𝕗𝕪 𝕡𝕣𝕠𝕗𝕚𝕝𝕖:</h4>
 
 <a href="https://github.com/BogdanKlimov11/spotify-github-profile"><img src="https://spotify-github-profile.vercel.app/api/view?uid=316avvgqriej7ktrfybyf7d6377u&cover_image=true&theme=default&show_offline=false&background_color=292a2b&interchange=true&bar_color=3fca62&bar_color_cover=false" alt="Spotify profile" width="49.7%" height="auto"></a>
+
+<h4>📅 ℚ𝕦𝕠𝕥𝕖 𝕠𝕗 𝕥𝕙𝕖 𝔻𝕒𝕪:</h4>
+
+<a href="https://github.com/piyushsuthar/github-readme-quotes"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" width="49.7%" height="auto"></a>
