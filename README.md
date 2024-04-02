@@ -203,8 +203,8 @@
 
 <h4>⚔️ 𝕄𝕪 ℂ𝕠𝕕𝕖𝕨𝕒𝕣𝕤 𝕡𝕣𝕠𝕗𝕚𝕝𝕖:</h4>
 
-<a href="https://www.codewars.com/users/BogdanKlimov11"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/2d6c1b07-e74a-4fcd-a0e0-be221dbecaea" alt="Codewars link" title="Codewars link" width="45px" height="45px"></a> &nbsp; &nbsp; &nbsp;
-<a href="https://www.codewars.com/users/BogdanKlimov11"><img src="https://www.codewars.com/users/BogdanKlimov11/badges/large" alt="Codewars stats"></a>
+<a href="https://www.codewars.com/users/PROgerych"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/2d6c1b07-e74a-4fcd-a0e0-be221dbecaea" alt="Codewars link" title="Codewars link" width="45px" height="45px"></a> &nbsp; &nbsp; &nbsp;
+<a href="https://www.codewars.com/users/PROgerych"><img src="https://www.codewars.com/users/BogdanKlimov11/badges/large" alt="Codewars stats"></a>
 
 <h4>📊 𝕄𝕪 𝕃𝕖𝕖𝕥ℂ𝕠𝕕𝕖 𝕡𝕣𝕠𝕗𝕚𝕝𝕖:</h4>
 
