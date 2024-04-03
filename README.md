@@ -109,6 +109,7 @@
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/da58e55a-6572-40b8-9a3c-7b395921045a" alt="Tauri" title="Tauri" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/a6b7fc19-a60e-4ab3-837a-eaeca7c8cffb" alt="Svelte" title="Svelte" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/de3c0093-b518-4df0-8456-4004ff4edd5b" alt="Vite" title="Vite" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/ed77d317-1d82-499a-a2e1-7a96f875cf60" alt="Webpack" title="Webpack" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/d5178eb1-43e1-47ea-8468-c1c121435482" alt="Metasploit" title="Metasploit" width="45px" height="45px">
 
 <!-- My tools -->
