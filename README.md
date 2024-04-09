@@ -63,6 +63,7 @@
 <a href="https://github.com/BogdanKlimov11/LaTex_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/fc3591ac-e3ca-441c-bf68-1d7d2aacec52" alt="LaTex" title="LaTex" width="45px" height="45px"></a> &nbsp;  <br>
 <a href="https://github.com/BogdanKlimov11/NSU"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/b8defee1-c8ce-4b80-92cf-5c3594f5eda2" alt="SystemVerelog" title="SystemVerelog" width="45px" height="45px"></a> &nbsp;
 <a href="https://github.com/BogdanKlimov11/Pascal_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/e175a0a2-a262-4fd2-8bdc-c3d1165cbc36" alt="Object Pascal" title="Object Pascal" width="45px" height="45px"></a> &nbsp;
+<a href="https://github.com/BogdanKlimov11/Shell_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/d0bea805-eac8-4346-a63b-6e4c2a974840" alt="PowerShell" title="PowerShell" width="45px" height="45px"></a> &nbsp;
 <a href="https://github.com/BogdanKlimov11/1C_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/56caf6dd-b1cf-4bad-a7b2-eda5d0d65194" alt="1C" title="1C" width="45px" height="45px"></a>
 
 <h4>🧐 𝕊𝕥𝕚𝕝𝕝 𝕤𝕥𝕦𝕕𝕪𝕚𝕟𝕘:</h4>
