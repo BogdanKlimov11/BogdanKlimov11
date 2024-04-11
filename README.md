@@ -244,6 +244,8 @@
 <a href="https://github.com/BogdanKlimov11/Julia_course"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanKlimov11&repo=Julia_course&theme=tokyonight&hide_border=true" alt="Julia course" width="49.7%" height="auto"></a>
 <a href="https://github.com/BogdanKlimov11/1C_course"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanKlimov11&repo=1C_course&theme=tokyonight&hide_border=true" alt="1C course" width="49.7%" height="auto"></a>
 <a href="https://github.com/BogdanKlimov11/LaTex_course"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanKlimov11&repo=LaTex_course&theme=tokyonight&hide_border=true" alt="LaTex course" width="49.7%" height="auto"></a>
+<a href="https://github.com/BogdanKlimov11/Perl_course"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanKlimov11&repo=Perl_course&theme=tokyonight&hide_border=true" alt="Perl course" width="49.7%" height="auto"></a>
+<a href="https://github.com/BogdanKlimov11/MatLab_course"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanKlimov11&repo=MatLab_course&theme=tokyonight&hide_border=true" alt="MatLab course" width="49.7%" height="auto"></a>
 
 <h3>🖊️ 𝔸𝕓𝕠𝕦𝕥 𝕞𝕖:</h3>
 
