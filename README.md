@@ -165,12 +165,13 @@
 
 <h3>🛰️ 𝕄𝕪 𝕨𝕖𝕓 𝕓𝕣𝕠𝕨𝕤𝕖𝕣𝕤:</h3>
 
-<a href="https://www.google.com/intl/ru_ru/chrome/"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/44f53ce6-7252-4ad1-91e2-fa3910a3d0e2" alt="Google Chrome" title="Google Chrome" width="45px" height="45px"></a> &nbsp;
-<a href="https://www.mozilla.org/ru/firefox/new/"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/3be1e47a-1923-4f00-8f9f-664bddbbdb16" alt="Mozilla Firefox" title="Mozilla Firefox" width="45px" height="45px"></a> &nbsp;
-<a href="https://www.microsoft.com/ru-ru/edge/download?form=MA13FJ"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/f49ba9c0-8af6-4d7e-bb31-27a05eac7adc" alt="Microsoft Edge" title="Microsoft Edge" width="45px" height="45px"></a> &nbsp;
+<a href="https://www.google.com/chrome/"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/44f53ce6-7252-4ad1-91e2-fa3910a3d0e2" alt="Google Chrome" title="Google Chrome" width="45px" height="45px"></a> &nbsp;
+<a href="https://www.mozilla.org/en-US/firefox/"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/3be1e47a-1923-4f00-8f9f-664bddbbdb16" alt="Mozilla Firefox" title="Mozilla Firefox" width="45px" height="45px"></a> &nbsp;
+<a href="https://www.microsoft.com/en-us/edge"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/f49ba9c0-8af6-4d7e-bb31-27a05eac7adc" alt="Microsoft Edge" title="Microsoft Edge" width="45px" height="45px"></a> &nbsp;
 <a href="https://www.opera.com/ru"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/44efd2bf-504e-4e40-928f-847c9b52a20b" alt="Opera" title="Opera" width="45px" height="45px"></a> &nbsp;
-<a href="https://browser.yandex.ru/"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/ca3be70d-0614-4c39-8fb8-95ba14e70e97" alt="Yandex" title="Yandex" width="45px" height="45px"></a> &nbsp;
-<a href="https://apps.apple.com/ru/app/safari/"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/1d4bdeb8-f888-478b-9319-a6948225d461" alt="Safari" title="Safari" width="45px" height="45px"></a>
+<a href="https://ya.ru/"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/ca3be70d-0614-4c39-8fb8-95ba14e70e97" alt="Yandex" title="Yandex" width="45px" height="45px"></a> &nbsp;
+<a href="https://www.apple.com/safari/"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/1d4bdeb8-f888-478b-9319-a6948225d461" alt="Safari" title="Safari" width="45px" height="45px"></a> &nbsp;
+<a href="https://www.bing.com/"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/726effc5-dabb-49ff-b027-06c6f9a97daa" alt="Bing" title="Bing" width="45px" height="45px"></a>
 
 <h3>🔥 𝕄𝕪 𝕊𝕥𝕒𝕥𝕤:</h3>
 
