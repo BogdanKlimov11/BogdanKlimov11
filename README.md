@@ -67,7 +67,8 @@
 <a href="https://github.com/BogdanKlimov11/Perl_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/2064b84f-6a7c-460e-bc05-4095682afc38" alt="Perl" title="Perl" width="45px" height="45px"></a> &nbsp;
 <a href="https://github.com/BogdanKlimov11/Shell_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/d0bea805-eac8-4346-a63b-6e4c2a974840" alt="PowerShell" title="PowerShell" width="45px" height="45px"></a> &nbsp;
 <a href="https://github.com/BogdanKlimov11/Shell_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/1d76ac48-f7f0-4661-9354-57a0b7378543" alt="Windows Command Prompt" title="Windows Command Prompt" width="45px" height="45px"></a> &nbsp;
-<a href="https://github.com/BogdanKlimov11/Shell_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/fbd9fc63-afad-4fe1-acce-6ada01b9e24f" alt="Bash" title="Bash" width="45px" height="45px"></a>
+<a href="https://github.com/BogdanKlimov11/Shell_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/fbd9fc63-afad-4fe1-acce-6ada01b9e24f" alt="Bash" title="Bash" width="45px" height="45px"></a> &nbsp;
+<a href="https://github.com/BogdanKlimov11/Wolfram_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/d01407ae-3619-4708-8376-8ba88ca3c4b2" alt="Wolfram" title="Wolfram" width="45px" height="45px"></a>
 
 <h4>🧐 𝕊𝕥𝕚𝕝𝕝 𝕤𝕥𝕦𝕕𝕪𝕚𝕟𝕘:</h4>
 
@@ -133,10 +134,14 @@
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/9668d142-a705-4eb0-b0f2-f99e939a3f47" alt="Blender" title="Blender" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/06fed3a8-b513-4de6-8d05-7174ac49bc37" alt="GitHub" title="GitHub" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/f0bd85a3-e318-43e8-987f-f0ab84e4010c" alt="ChatGPT" title="ChatGPT" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/ede706a9-d02c-4b6f-a208-cf0a568f84dc" alt="Wolfram mathematica" title="Wolfram" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/ede706a9-d02c-4b6f-a208-cf0a568f84dc" alt="Wolfram mathematica" title="Wolfram mathematica" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/ed143b06-8008-4726-bb36-dfb33be97c78" alt="Nmap" title="Nmap" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/6f8be38f-f1c1-4349-b8ad-e4e039b2a7ff" alt="Wireshark" title="Wireshark" width="45px" height="45px"> &nbsp; <br>
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/b4a172b9-6561-46f4-908c-bc897ea600cf" alt="Burp Suite" title="Burp Suite" width="45px" height="45px">
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/bfd8dc70-2d14-48df-90c6-7874c8a8d668" alt="Burp Suite" title="Burp Suite" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/93a85746-62f6-4a52-be3a-03b82390d0ef" alt="Ubuntu" title="Ubuntu" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/8a99113f-26a8-4900-a9fa-0af9a1fc5a0d" alt="Debian" title="Debian" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/872a23a0-e276-4be0-af40-48c276457611" alt="Fedora" title="Fedora" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/e0a30e8f-93cc-4f52-92b1-a77d21c2980c" alt="Arch" title="Arch" width="45px" height="45px"> &nbsp;
 
 <!-- My IDE -->
 <h3>💻 𝕀𝔻𝔼𝕤 𝕀 𝕦𝕤𝕖:</h3>
