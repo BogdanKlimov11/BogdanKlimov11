@@ -160,7 +160,8 @@
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/733955ac-cf67-434a-a783-8f03cced968d" alt="Arduino IDE" title="Arduino IDE" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/5348d0de-e255-49d1-9255-d3c2f7bd5825" alt="Atom" title="Atom" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/8e43793b-2712-4b9f-b554-97f070fd914e" alt="Anaconda" title="Anaconda" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/dd69c74e-8970-4a46-a08c-817aad489487" alt="Android Studio" title="Android Studio" width="45px" height="45px">
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/dd69c74e-8970-4a46-a08c-817aad489487" alt="Android Studio" title="Android Studio" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/2b23ec83-e08a-4566-8baa-973276e0ac7f" alt="Vivado" title="Vivado" width="45px" height="45px">
 
 <h3>🛰️ 𝕄𝕪 𝕨𝕖𝕓 𝕓𝕣𝕠𝕨𝕤𝕖𝕣𝕤:</h3>
 
