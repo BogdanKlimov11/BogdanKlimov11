@@ -184,6 +184,10 @@
 
 <h3>🌎 𝕄𝕪 𝕝𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤:</h3>
 
+<h4>🌌 𝕄𝕪 𝔼𝕟𝕘𝕝𝕚𝕤𝕙 𝔾𝕒𝕝𝕒𝕩𝕪 𝕡𝕣𝕠𝕗𝕚𝕝𝕖:</h4>
+
+<a href="https://taplink.cc/englishgalaxy"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/52cc76c6-2678-4f3a-9f91-f89b5f7cdb58" alt="English Galaxy link" title="English Galaxy link" width="45px" height="45px"></a>
+
 <h4>🦉 𝕄𝕪 𝔻𝕦𝕠𝕝𝕚𝕟𝕘𝕠 𝕡𝕣𝕠𝕗𝕚𝕝𝕖:</h4>
 
 <a href="https://www.duolingo.com/profile/BogdanKlimov11"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/ca8cfe4a-11df-4bd1-bde5-cc16c72c3c59" alt="Duolingo link" title="Duolingo link" width="45px" height="45px"></a> &nbsp; &nbsp; &nbsp;
