@@ -142,6 +142,7 @@
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/8a99113f-26a8-4900-a9fa-0af9a1fc5a0d" alt="Debian" title="Debian" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/872a23a0-e276-4be0-af40-48c276457611" alt="Fedora" title="Fedora" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/e0a30e8f-93cc-4f52-92b1-a77d21c2980c" alt="Arch" title="Arch" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/abecd2fd-206c-4c4a-b581-73596fe123d4" alt="Raspberry Pi" title="Raspberry Pi" width="45px" height="45px">
 
 <!-- My IDE -->
 <h3>💻 𝕀𝔻𝔼𝕤 𝕀 𝕦𝕤𝕖:</h3>
