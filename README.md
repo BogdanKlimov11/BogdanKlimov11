@@ -36,7 +36,7 @@
 <a href="https://discordapp.com/users/746195456127795311/"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/12127d64-221b-484a-93e7-3a7c69b2194a" alt="Discord" title="Discord" width="45px" height="45px"></a> &nbsp;
 <a href="https://www.youtube.com/channel/UCZzftYFs4DgUapV4Fl7EGuw"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/eea437a4-58d1-43d7-addf-513da324e94c" alt="YouTube" title="YouTube" width="45px" height="45px"></a> &nbsp;
 <a href="https://habr.com/ru/users/IT_Killer/"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/8baf3c6e-63d9-4a5b-80d4-2ab48b794fbf" alt="Habr" title="Habr" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/e70e456e-e812-4d66-ac8c-1cfddd105d5e" alt="Linkedin" title="Linkedin" width="45px" height="45px"></a>
+<a href="https://ru.linkedin.com/"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/e70e456e-e812-4d66-ac8c-1cfddd105d5e" alt="Linkedin" title="Linkedin" width="45px" height="45px"></a>
 
 <!-- My achievements -->
 <h3>🏆 𝔾𝕚𝕥ℍ𝕦𝕓 ℙ𝕣𝕠𝕗𝕚𝕝𝕖 𝕋𝕣𝕠𝕡𝕙𝕪:</h3>
