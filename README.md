@@ -40,7 +40,7 @@
 <a href=""><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/e92d2967-c05a-49ee-ac71-6a69f553ddde" alt="TikTok" title="TikTok" width="45px" height="45px"></a> &nbsp;
 <a href=""><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/fe5d272d-1103-4f9a-a3b6-6d1c29db23ea" alt="Viber" title="Viber" width="45px" height="45px"></a> &nbsp;
 <a href=""><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/502daea6-ab42-4261-9b6e-a8281f058a4c" alt="WhatsApp" title="WhatsApp" width="45px" height="45px"></a> &nbsp;
-<a href="https://tenchat.ru/3441130?utm_source=6332ca13-97f1-4972-8e1c-55d81dea94b9"><img src="https://github.com/user-attachments/assets/77ab68bb-1e41-4602-b7d1-21ec974c9d8b" alt="TenChat" title="TenChat" width="45px" height="45px"></a>
+<a href="https://tenchat.ru/3441130?utm_source=6332ca13-97f1-4972-8e1c-55d81dea94b9"><img src="https://github.com/user-attachments/assets/2bd992c7-0f67-4261-a54f-33f7b3bf98ba" alt="TenChat" title="TenChat" width="45px" height="45px"></a>
 
 <!-- My achievements -->
 <h3>🏆 𝔾𝕚𝕥ℍ𝕦𝕓 ℙ𝕣𝕠𝕗𝕚𝕝𝕖 𝕋𝕣𝕠𝕡𝕙𝕪:</h3>
