@@ -33,14 +33,9 @@
 <a href="https://t.me/bogdanklimov"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/d55ff808-ede2-4ca2-aa92-41c987ce9c57" alt="Telegram" title="Telegram" width="45px" height="45px"></a> &nbsp;
 <a href="https://www.facebook.com/profile.php?id=100033935590093&mibextid=LQQJ4d"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/b4a0f683-db6f-4a34-a47d-8f4a436448f2" alt="Facebook" title="Facebook" width="45px" height="45px"></a> &nbsp;
 <a href="https://twitter.com/ghost_777_24"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/408f9b81-2d4e-47af-b1af-14315528311f" alt="Twitter" title="Twitter" width="45px" height="45px"></a> &nbsp;
-<a href="https://discordapp.com/users/746195456127795311/"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/12127d64-221b-484a-93e7-3a7c69b2194a" alt="Discord" title="Discord" width="45px" height="45px"></a> &nbsp;
 <a href="https://www.youtube.com/channel/UCZzftYFs4DgUapV4Fl7EGuw"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/eea437a4-58d1-43d7-addf-513da324e94c" alt="YouTube" title="YouTube" width="45px" height="45px"></a> &nbsp;
-<a href="https://habr.com/ru/users/IT_Killer/"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/8baf3c6e-63d9-4a5b-80d4-2ab48b794fbf" alt="Habr" title="Habr" width="45px" height="45px"></a> &nbsp; <br>
-<a href="https://ru.linkedin.com/"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/e70e456e-e812-4d66-ac8c-1cfddd105d5e" alt="Linkedin" title="Linkedin" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/e92d2967-c05a-49ee-ac71-6a69f553ddde" alt="TikTok" title="TikTok" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/fe5d272d-1103-4f9a-a3b6-6d1c29db23ea" alt="Viber" title="Viber" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/502daea6-ab42-4261-9b6e-a8281f058a4c" alt="WhatsApp" title="WhatsApp" width="45px" height="45px"></a> &nbsp;
-<a href="https://tenchat.ru/3441130?utm_source=6332ca13-97f1-4972-8e1c-55d81dea94b9"><img src="https://github.com/user-attachments/assets/2bd992c7-0f67-4261-a54f-33f7b3bf98ba" alt="TenChat" title="TenChat" width="45px" height="45px"></a>
+<a href="https://habr.com/ru/users/IT_Killer/"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/8baf3c6e-63d9-4a5b-80d4-2ab48b794fbf" alt="Habr" title="Habr" width="45px" height="45px"></a> &nbsp;
+<a href="https://ru.linkedin.com/"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/e70e456e-e812-4d66-ac8c-1cfddd105d5e" alt="Linkedin" title="Linkedin" width="45px" height="45px"></a>
 
 <!-- My achievements -->
 <h3>🏆 𝔾𝕚𝕥ℍ𝕦𝕓 ℙ𝕣𝕠𝕗𝕚𝕝𝕖 𝕋𝕣𝕠𝕡𝕙𝕪:</h3>
