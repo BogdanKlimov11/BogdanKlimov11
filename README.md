@@ -95,18 +95,19 @@
 <!-- My framework -->
 <h3>💼 𝕄𝕪 𝕗𝕣𝕒𝕞𝕖𝕨𝕠𝕣𝕜:</h3>
 
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/7dcfa3c5-36e7-4810-b337-e70cbc04a845" alt="React.js" title="React.js" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/cc3cd90d-49fd-43c6-9467-bd518a615e74" alt="Vue.js" title="Vue.js" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/54f7b4bd-539f-4ebb-a6f5-397bf8308780" alt="Angular" title="Angular" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/c34c0011-d534-41a8-aa22-6eddb992f1fd" alt="React.js" title="React.js" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/6c1beeec-8a87-4a03-b4b5-82f7ca7e0e21" alt="Vue.js" title="Vue.js" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/54e6d918-77d8-4e0a-9cef-650ea8b7b296" alt="Angular" title="Angular" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/84a5e8f3-e48b-4220-9f73-701726ba97cc" alt="Jquery" title="Jquery" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/6fbd12ec-3f5a-4ee4-9fca-90c1d3c85f01" alt="Node.js" title="Node.js" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/a3a179a6-07db-4a68-ac22-ab836ac098b3" alt="Node.js" title="Node.js" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/32f29ffd-0eab-497c-a766-5dfc1eb4e94a" alt="Django" title="Django" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/ed989df8-22c5-4dac-853a-32b92d2348a4" alt="Pyramid" title="Pyramid" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/a5675197-e6f4-4b2a-b9cd-bb65b9421b47" alt="Flask" title="Flask" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/e8e8f4f8-250e-48a3-8f2b-0fc601832fe2" alt="Pandas" title="Pandas" width="45px" height="45px"> &nbsp; <br>
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/a5675197-e6f4-4b2a-b9cd-bb65b9421b47" alt="Flask" title="Flask" width="45px" height="45px"> <br>
+<img src="https://github.com/user-attachments/assets/227569e8-59cf-4bbd-ab28-5bdf0d869bf0" alt="Pytest" title="Pytest" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/618406b3-4429-4190-8659-5805bef369a6" alt="Pandas" title="Pandas" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/5e7ce8fe-b11c-4396-8037-e045537cc63c" alt="NumPy" title="NumPy" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/ae030567-7cd4-4190-a13b-13c6174228cb" alt="Matplotlib" title="Matplotlib" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/8fd66eb6-496a-4ce1-a5ec-f2c5031313c4" alt="Plotly" title="Plotly" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/a5d4ec66-c0a9-41fc-91fc-6c7651b1f3b0" alt="Plotly" title="Plotly" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/83124ee9-6ea3-4a0e-8144-db0f9d06eda7" alt="TensorFlow" title="TensorFlow" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/b85aac65-dffa-488e-b7ac-cbd257037ea9" alt="Keras" title="Keras" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/5f96fc2d-88ea-48a6-b480-2b9606bd6aea" alt="PyTorch" title="PyTorch" width="45px" height="45px"> &nbsp;
