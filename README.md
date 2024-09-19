@@ -149,17 +149,17 @@
 <!-- My IDE -->
 <h3>💻 𝕀𝔻𝔼𝕤 𝕀 𝕦𝕤𝕖:</h3>
 
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/36cffc48-f149-4849-8125-258e1b3e6e59" alt="IntelliJ" title="IntelliJ" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/10aa7efc-ded0-42c9-9f30-52b246767f59" alt="PyCharm" title="PyCharm" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/3d24cab7-1edf-4cb6-b674-2b65d91e783d" alt="CLion" title="CLion" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/f8a021c4-5da2-4b89-bd86-83a4e65db3dc" alt="WebStorm" title="WebStorm" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/95447632-17ef-43ee-9e81-a951098871c2" alt="DataSpell" title="DataSpell" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/eb02078c-02b5-4be5-a5bc-86850b8de199" alt="DataGrip" title="DataGrip" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/bf6b8429-335c-4eac-9389-05c566556fd9" alt="PhpStorm" title="PhpStorm" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/22746914-3d81-42db-96c1-23475b17e97d" alt="Rider" title="Rider" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/411429d9-e998-4bf2-b81c-1f1a1b0bb48b" alt="Jupyter" title="Jupyter Notebook" width="45px" height="45px"> &nbsp; <br>
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/6890517a-da55-4ea0-8de7-46be48394124" alt="Visual Studio" title="Visual Studio" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/bd17ebce-d362-4000-8fd9-e9ae83b4248d" alt="Visual Studio Code" title="Visual Studio Code" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/32d2c47f-b2ad-4f4a-823d-49ecd5f577a7" alt="IntelliJ" title="IntelliJ" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/7ce75557-d3a3-48b9-b455-228484bc0f4a" alt="PyCharm" title="PyCharm" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/9c7712eb-3d75-4efc-bb3c-ffa24bdde22d" alt="CLion" title="CLion" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/24bc2785-f921-4988-9473-2908f6b67362" alt="WebStorm" title="WebStorm" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/3b469242-2513-48a6-b19f-ab18c075b31d" alt="DataSpell" title="DataSpell" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/6a5db3e8-942b-46f0-9d14-76e077080ba6" alt="DataGrip" title="DataGrip" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/4db08b6a-661f-4091-81f8-378965d459b5" alt="PhpStorm" title="PhpStorm" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/f4660587-96b6-4446-8749-f9c43b32cacb" alt="Rider" title="Rider" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/1065922b-537f-4e8b-b318-58a8f1f14d01" alt="Jupyter Notebook" title="Jupyter Notebook" width="45px" height="45px"> &nbsp; <br>
+<img src="https://github.com/user-attachments/assets/26f50ca4-23c8-49da-aa91-8158b10a8628" alt="Visual Studio" title="Visual Studio" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/79e6784d-614a-4766-b35e-31b9553676c0" alt="Visual Studio Code" title="Visual Studio Code" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/733955ac-cf67-434a-a783-8f03cced968d" alt="Arduino IDE" title="Arduino IDE" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/5348d0de-e255-49d1-9255-d3c2f7bd5825" alt="Atom" title="Atom" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/8e43793b-2712-4b9f-b554-97f070fd914e" alt="Anaconda" title="Anaconda" width="45px" height="45px"> &nbsp;
