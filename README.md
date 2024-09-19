@@ -61,30 +61,36 @@
 <a href=""><img src="https://github.com/user-attachments/assets/30ac336f-a7d8-48b9-adaa-615630cb5884" alt="CSS" title="CSS" width="45px" height="45px"></a> &nbsp;
 <a href=""><img src="https://github.com/user-attachments/assets/d3172fa0-feb3-4474-9d8b-13c460f0561f" alt="JavaScript" title="JavaScript" width="45px" height="45px"></a> &nbsp;
 <a href=""><img src="https://github.com/user-attachments/assets/4663a62a-ba2e-44d1-a71b-6b331f458542" alt="TypeScript" title="TypeScript" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/c69c9f18-b387-4905-85b4-a2bf069a7480" alt="Kotlin" title="Kotlin" width="45px" height="45px"></a> &nbsp; <br>
+<a href=""><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/c69c9f18-b387-4905-85b4-a2bf069a7480" alt="Kotlin" title="Kotlin" width="45px" height="45px"></a> <br>
 <a href=""><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/56caf6dd-b1cf-4bad-a7b2-eda5d0d65194" alt="1C" title="1C" width="45px" height="45px"></a> &nbsp;
 <a href="https://github.com/BogdanKlimov11/NSU"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/b8defee1-c8ce-4b80-92cf-5c3594f5eda2" alt="SystemVerelog" title="SystemVerelog" width="45px" height="45px"></a> &nbsp;
 <a href=""><img src="https://github.com/user-attachments/assets/750ecaab-8345-4a04-901e-33c3652a504d" alt="PowerShell" title="PowerShell" width="45px" height="45px"></a> &nbsp;
 <a href=""><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/fbd9fc63-afad-4fe1-acce-6ada01b9e24f" alt="Bash" title="Bash" width="45px" height="45px"></a> &nbsp;
-<a href="https://github.com/BogdanKlimov11/MatLab_course"><img src="https://github.com/user-attachments/assets/8db859fc-c767-4a1d-ad8c-8697f824f095" alt="MatLab" title="MatLab" width="45px" height="45px"></a> &nbsp;
+<a href=""><img src="https://github.com/user-attachments/assets/60bf579f-2f86-4d36-8578-d71c16151f8d" alt="MySQL" title="MySQL" width="45px" height="45px"></a> &nbsp;
+<a href=""><img src="https://github.com/user-attachments/assets/c9a7e105-6ad0-4fbe-a914-8c744ae5e762" alt="Oracle" title="Oracle" width="45px" height="45px"></a> &nbsp;
+<a href=""><img src="https://github.com/user-attachments/assets/08b98163-f4c5-446b-af75-0472140847c7" alt="MongoDB" title="MongoDB" width="45px" height="45px"></a> &nbsp;
+<a href="https://github.com/BogdanKlimov11/MatLab_course"><img src="https://github.com/user-attachments/assets/8db859fc-c767-4a1d-ad8c-8697f824f095" alt="MatLab" title="MatLab" width="45px" height="45px"></a> <br>
 <a href="https://github.com/BogdanKlimov11/LaTex_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/fc3591ac-e3ca-441c-bf68-1d7d2aacec52" alt="LaTex" title="LaTex" width="45px" height="45px"></a> &nbsp;
-<a href="https://github.com/BogdanKlimov11/Wolfram_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/d01407ae-3619-4708-8376-8ba88ca3c4b2" alt="Wolfram" title="Wolfram" width="45px" height="45px"></a>
+<a href="https://github.com/BogdanKlimov11/Wolfram_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/d01407ae-3619-4708-8376-8ba88ca3c4b2" alt="Wolfram" title="Wolfram" width="45px" height="45px"></a> &nbsp;
 <a href="https://github.com/BogdanKlimov11/Markdown_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/3b69373a-4c87-48a9-85a8-94b911ae2d74" alt="Markdown" title="Markdown" width="45px" height="45px"></a> &nbsp;
+<a href=""><img src="https://github.com/user-attachments/assets/76482b4a-addf-463f-a294-a17eac348318" alt="Java" title="Java" width="45px" height="45px"></a> &nbsp;
+<a href=""><img src="https://github.com/user-attachments/assets/f7722ba4-209b-469b-9b95-6513d94e986f" alt="PHP" title="PHP" width="45px" height="45px"></a> &nbsp;
+<a href=""><img src="https://github.com/user-attachments/assets/e991160f-9e70-46eb-bbac-2060ff124560" alt="Swift" title="Swift" width="45px" height="45px"></a>
 
 <h4>🧐 𝕊𝕥𝕚𝕝𝕝 𝕤𝕥𝕦𝕕𝕪𝕚𝕟𝕘:</h4>
 
 <a href=""><img src="https://github.com/user-attachments/assets/60474c62-c1d6-46b8-916d-2bd663ce4b04" alt="C#" title="C#" width="45px" height="45px"></a> &nbsp;
-<a href="https://github.com/BogdanKlimov11/Java_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/a01c699f-4d3f-4f68-9b02-5bf3ca99a339" alt="Java" title="Java" width="45px" height="45px"></a> &nbsp;
-<a href="https://github.com/BogdanKlimov11/PHP_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/fccdc246-43b4-4e12-b236-35d8acca6c03" alt="PHP" title="PHP" width="45px" height="45px"></a> &nbsp;
-<a href="https://github.com/BogdanKlimov11/DBMS_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/b8e69afd-9c0e-48c4-b331-2127a282e99c" alt="MySQL" title="MySQL" width="45px" height="45px"></a> &nbsp;
-<a href="https://github.com/BogdanKlimov11/Swift_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/8573a2d2-a956-4af5-bd19-1c2ff52bc254" alt="Swift" title="Swift" width="45px" height="45px"></a> &nbsp;
-<a href="https://github.com/BogdanKlimov11/Ruby_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/f2f86a17-172a-40b8-bdc3-75f62c91a29e" alt="Ruby" title="Ruby" width="45px" height="45px"></a> &nbsp;
-<a href="https://github.com/BogdanKlimov11/Go_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/301bd5e1-c51b-43b2-87d2-0c68b3b277ce" alt="Go" title="Go" width="45px" height="45px"></a> &nbsp;
-<a href="https://github.com/BogdanKlimov11/Rust_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/f06e983e-e699-4609-b5c5-9b579215b8e2" alt="Rust" title="Rust" width="45px" height="45px"></a> &nbsp; <br>
-<a href="https://github.com/BogdanKlimov11/Scala_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/0b30a594-53da-488b-85d2-af6061254bbf" alt="Scala" title="Scala" width="45px" height="45px"></a> &nbsp;
-<a href="https://github.com/BogdanKlimov11/Julia_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/7634f4d4-bf71-4967-bddc-8ca91a3a25f0" alt="Julia" title="Julia" width="45px" height="45px"></a>
+<a href=""><img src="https://github.com/user-attachments/assets/6ac574d6-a081-4d04-932d-8d17edaafdf3" alt="R" title="R" width="45px" height="45px"></a> &nbsp;
+<a href=""><img src="https://github.com/user-attachments/assets/30c9c476-b33e-4ea1-8c92-3efbe5a333fc" alt="Dart" title="Dart" width="45px" height="45px"></a> &nbsp;
+<a href=""><img src="https://github.com/user-attachments/assets/1d343cf0-70e0-4d6e-9686-0eea3d725a0a" alt="SQLite" title="SQLite" width="45px" height="45px"></a> &nbsp;
+<a href=""><img src="https://github.com/user-attachments/assets/39e033a4-494a-45c6-a277-87e962413a41" alt="PostgreSQL" title="PostgreSQL" width="45px" height="45px"></a> &nbsp;
+<a href=""><img src="https://github.com/user-attachments/assets/29cd9312-9965-47cb-a914-aa893f3d8782" alt="Ruby" title="Ruby" width="45px" height="45px"></a> &nbsp;
+<a href=""><img src="https://github.com/user-attachments/assets/a38dbb1d-e2af-4828-9c13-a95a73a023f0" alt="Go" title="Go" width="45px" height="45px"></a> &nbsp;
+<a href=""><img src="https://github.com/user-attachments/assets/cde2d4e5-4cbf-4154-b577-3677997c7c29" alt="Rust" title="Rust" width="45px" height="45px"></a> <br>
+<a href=""><img src="https://github.com/user-attachments/assets/9cb3bc61-7467-4a3c-9e05-6ad8fcef8ad9" alt="Scala" title="Scala" width="45px" height="45px"></a> &nbsp;
+<a href=""><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/7634f4d4-bf71-4967-bddc-8ca91a3a25f0" alt="Julia" title="Julia" width="45px" height="45px"></a> &nbsp;
 <a href=""><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/e175a0a2-a262-4fd2-8bdc-c3d1165cbc36" alt="Object Pascal" title="Object Pascal" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/user-attachments/assets/1bac15a4-c0fb-4d4d-81ca-3bb66519b833" alt="Perl" title="Perl" width="45px" height="45px"></a> &nbsp;
+<a href=""><img src="https://github.com/user-attachments/assets/1bac15a4-c0fb-4d4d-81ca-3bb66519b833" alt="Perl" title="Perl" width="45px" height="45px"></a>
 
 <!-- My framework -->
 <h3>💼 𝕄𝕪 𝕗𝕣𝕒𝕞𝕖𝕨𝕠𝕣𝕜:</h3>
@@ -115,7 +121,7 @@
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/a6b7fc19-a60e-4ab3-837a-eaeca7c8cffb" alt="Svelte" title="Svelte" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/de3c0093-b518-4df0-8456-4004ff4edd5b" alt="Vite" title="Vite" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/ed77d317-1d82-499a-a2e1-7a96f875cf60" alt="Webpack" title="Webpack" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/d5178eb1-43e1-47ea-8468-c1c121435482" alt="Metasploit" title="Metasploit" width="45px" height="45px">
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/d5178eb1-43e1-47ea-8468-c1c121435482" alt="Metasploit" title="Metasploit" width="45px" height="45px"> &nbsp;
 
 <!-- My tools -->
 <h3>🛠️ 𝕄𝕪 𝕥𝕠𝕠𝕝𝕤:</h3>
@@ -155,8 +161,8 @@
 <img src="https://github.com/user-attachments/assets/3b469242-2513-48a6-b19f-ab18c075b31d" alt="DataSpell" title="DataSpell" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/user-attachments/assets/6a5db3e8-942b-46f0-9d14-76e077080ba6" alt="DataGrip" title="DataGrip" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/user-attachments/assets/4db08b6a-661f-4091-81f8-378965d459b5" alt="PhpStorm" title="PhpStorm" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/user-attachments/assets/f4660587-96b6-4446-8749-f9c43b32cacb" alt="Rider" title="Rider" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/user-attachments/assets/1065922b-537f-4e8b-b318-58a8f1f14d01" alt="Jupyter Notebook" title="Jupyter Notebook" width="45px" height="45px"> &nbsp; <br>
+<img src="https://github.com/user-attachments/assets/f4660587-96b6-4446-8749-f9c43b32cacb" alt="Rider" title="Rider" width="45px" height="45px"> <br>
+<img src="https://github.com/user-attachments/assets/1065922b-537f-4e8b-b318-58a8f1f14d01" alt="Jupyter Notebook" title="Jupyter Notebook" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/user-attachments/assets/26f50ca4-23c8-49da-aa91-8158b10a8628" alt="Visual Studio" title="Visual Studio" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/user-attachments/assets/79e6784d-614a-4766-b35e-31b9553676c0" alt="Visual Studio Code" title="Visual Studio Code" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/733955ac-cf67-434a-a783-8f03cced968d" alt="Arduino IDE" title="Arduino IDE" width="45px" height="45px"> &nbsp;
