@@ -110,18 +110,18 @@
 <img src="https://github.com/user-attachments/assets/a5d4ec66-c0a9-41fc-91fc-6c7651b1f3b0" alt="Plotly" title="Plotly" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/83124ee9-6ea3-4a0e-8144-db0f9d06eda7" alt="TensorFlow" title="TensorFlow" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/b85aac65-dffa-488e-b7ac-cbd257037ea9" alt="Keras" title="Keras" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/5f96fc2d-88ea-48a6-b480-2b9606bd6aea" alt="PyTorch" title="PyTorch" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/c549d503-3609-4946-83ea-47ede52e5c1a" alt="PyTorch" title="PyTorch" width="45px" height="45px"> <br>
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/6631e372-8ca8-4198-8206-0ce932a1d45e" alt="DotNet" title="DotNet" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/9cc7d0e0-2488-43a2-9bd3-e92a48cb4999" alt="Unity" title="Unity" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/a3d9c829-fce1-4a50-9b4f-84de6ca4efe3" alt="Unreal Engine" title="Unreal Engine" width="45px" height="45px"> &nbsp; <br>
+<img src="https://github.com/user-attachments/assets/fe840318-5613-41f8-9ca0-0687b40a8781" alt="Unity" title="Unity" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/a3d9c829-fce1-4a50-9b4f-84de6ca4efe3" alt="Unreal Engine" title="Unreal Engine" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/07c79fbc-62d9-43ca-a9d3-1b4024d7ad14" alt="Godot Engine" title="Godot Engine" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/f7434797-0409-4801-9931-59615f44637f" alt="Kafka" title="Kafka" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/0ee72a8b-377e-41b0-9829-43f6a188d7cb" alt="Oxidation Compiler" title="Oxidation Compiler" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/cabb303a-ab84-4de5-833e-ee2322348368" alt="Deno" title="Deno" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/da58e55a-6572-40b8-9a3c-7b395921045a" alt="Tauri" title="Tauri" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/a6b7fc19-a60e-4ab3-837a-eaeca7c8cffb" alt="Svelte" title="Svelte" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/da58e55a-6572-40b8-9a3c-7b395921045a" alt="Tauri" title="Tauri" width="45px" height="45px"> <br>
+<img src="https://github.com/user-attachments/assets/6a6046c4-7e56-4a41-8211-947a1b9858aa" alt="Svelte" title="Svelte" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/de3c0093-b518-4df0-8456-4004ff4edd5b" alt="Vite" title="Vite" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/ed77d317-1d82-499a-a2e1-7a96f875cf60" alt="Webpack" title="Webpack" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/cc2bfa6a-ca00-497b-8bb3-eafad6ec55e9" alt="Webpack" title="Webpack" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/d5178eb1-43e1-47ea-8468-c1c121435482" alt="Metasploit" title="Metasploit" width="45px" height="45px"> &nbsp;
 
 <!-- My tools -->
