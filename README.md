@@ -132,25 +132,28 @@
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/50162274-cd27-4b82-8583-22b1873ca355" alt="Premiere Pro" title="Premiere Pro" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/68510290-7cf1-4962-b120-10a3f7d2e74c" alt="Illustrator" title="Illustrator" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/40f395a4-b0fa-463e-9e77-dc67f1dce294" alt="XD" title="Experience Design" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/54d93c0b-041b-4b1d-b839-36d8a96cef3c" alt="Git" title="Git" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/b534c5a6-ad0d-4c73-a3c6-21ab1ad333b3" alt="Docker" title="Docker" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/295b2fa1-2f76-4763-bcfe-897e6416e7fe" alt="Wordpress" title="Wordpress" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/2ec992ea-5de2-4314-8a91-50bae22c6a3e" alt="Tilda" title="Tilda" width="45px" height="45px"> &nbsp; <br>
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/f0bd85a3-e318-43e8-987f-f0ab84e4010c" alt="ChatGPT" title="ChatGPT" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/ede706a9-d02c-4b6f-a208-cf0a568f84dc" alt="Wolfram mathematica" title="Wolfram mathematica" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/b534c5a6-ad0d-4c73-a3c6-21ab1ad333b3" alt="Docker" title="Docker" width="45px" height="45px"> <br>
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/9668d142-a705-4eb0-b0f2-f99e939a3f47" alt="Blender" title="Blender" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/96492454-1e53-4575-8598-8c1b0716204c" alt="Linux" title="Linux" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/d63a4048-53c4-4b2e-bb63-51029d87cfcc" alt="Windows" title="Windows" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/5203f4cb-2ea7-4e59-9a3d-2d56084f5fc5" alt="iOS" title="iOS" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/9668d142-a705-4eb0-b0f2-f99e939a3f47" alt="Blender" title="Blender" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/06fed3a8-b513-4de6-8d05-7174ac49bc37" alt="GitHub" title="GitHub" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/f0bd85a3-e318-43e8-987f-f0ab84e4010c" alt="ChatGPT" title="ChatGPT" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/ede706a9-d02c-4b6f-a208-cf0a568f84dc" alt="Wolfram mathematica" title="Wolfram mathematica" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/ed143b06-8008-4726-bb36-dfb33be97c78" alt="Nmap" title="Nmap" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/6f8be38f-f1c1-4349-b8ad-e4e039b2a7ff" alt="Wireshark" title="Wireshark" width="45px" height="45px"> &nbsp; <br>
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/bfd8dc70-2d14-48df-90c6-7874c8a8d668" alt="Burp Suite" title="Burp Suite" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/93a85746-62f6-4a52-be3a-03b82390d0ef" alt="Ubuntu" title="Ubuntu" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/8a99113f-26a8-4900-a9fa-0af9a1fc5a0d" alt="Debian" title="Debian" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/872a23a0-e276-4be0-af40-48c276457611" alt="Fedora" title="Fedora" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/e0a30e8f-93cc-4f52-92b1-a77d21c2980c" alt="Arch" title="Arch" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/abecd2fd-206c-4c4a-b581-73596fe123d4" alt="Raspberry Pi" title="Raspberry Pi" width="45px" height="45px">
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/e0a30e8f-93cc-4f52-92b1-a77d21c2980c" alt="Arch" title="Arch" width="45px" height="45px"> <br>
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/54d93c0b-041b-4b1d-b839-36d8a96cef3c" alt="Git" title="Git" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/06fed3a8-b513-4de6-8d05-7174ac49bc37" alt="GitHub" title="GitHub" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/b1485186-eb65-4176-824f-016406b23a63" alt="GitLab" title="GitLab" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/295b2fa1-2f76-4763-bcfe-897e6416e7fe" alt="Wordpress" title="Wordpress" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/2ec992ea-5de2-4314-8a91-50bae22c6a3e" alt="Tilda" title="Tilda" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/e4094ea8-1461-4b22-9372-8e467fc4195d" alt="Figma" title="Figma" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/abecd2fd-206c-4c4a-b581-73596fe123d4" alt="Raspberry Pi" title="Raspberry Pi" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/673bf9aa-67e8-4d5c-b818-aee1a1b15e81" alt="CMake" title="CMake" width="45px" height="45px"> <br>
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/ed143b06-8008-4726-bb36-dfb33be97c78" alt="Nmap" title="Nmap" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/6f8be38f-f1c1-4349-b8ad-e4e039b2a7ff" alt="Wireshark" title="Wireshark" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/bfd8dc70-2d14-48df-90c6-7874c8a8d668" alt="Burp Suite" title="Burp Suite" width="45px" height="45px"> &nbsp;
 
 <!-- My IDE -->
 <h3>💻 𝕀𝔻𝔼𝕤 𝕀 𝕦𝕤𝕖:</h3>
