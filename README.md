@@ -75,7 +75,8 @@
 <a href="https://github.com/BogdanKlimov11/Markdown_course"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/3b69373a-4c87-48a9-85a8-94b911ae2d74" alt="Markdown" title="Markdown" width="45px" height="45px"></a> &nbsp;
 <a href=""><img src="https://github.com/user-attachments/assets/76482b4a-addf-463f-a294-a17eac348318" alt="Java" title="Java" width="45px" height="45px"></a> &nbsp;
 <a href=""><img src="https://github.com/user-attachments/assets/f7722ba4-209b-469b-9b95-6513d94e986f" alt="PHP" title="PHP" width="45px" height="45px"></a> &nbsp;
-<a href=""><img src="https://github.com/user-attachments/assets/e991160f-9e70-46eb-bbac-2060ff124560" alt="Swift" title="Swift" width="45px" height="45px"></a>
+<a href=""><img src="https://github.com/user-attachments/assets/e991160f-9e70-46eb-bbac-2060ff124560" alt="Swift" title="Swift" width="45px" height="45px"></a> &nbsp;
+<a href=""><img src="https://github.com/user-attachments/assets/7f83f216-65ee-4ac6-b4aa-995739c566b5" alt="Assembler" title="Assembler" width="45px" height="45px"></a>
 
 <h4>🧐 𝕊𝕥𝕚𝕝𝕝 𝕤𝕥𝕦𝕕𝕪𝕚𝕟𝕘:</h4>
 
