@@ -47,7 +47,7 @@
 <!-- My goals and interests -->
 <h3>📝 𝕄𝕪 𝕘𝕠𝕒𝕝𝕤 𝕒𝕟𝕕 𝕚𝕟𝕥𝕖𝕣𝕖𝕤𝕥𝕤:</h3>
 
-<a><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&duration=1500&pause=500&color=2CAFF7&multiline=true&random=false&width=500&height=100&lines=Data+Science;Artificial+Intelligence;Computer+software+development;Mobile+development" alt="Typing SVG" /></a>
+<a><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&duration=1500&pause=500&color=2CAFF7&multiline=true&random=false&width=500&height=100&lines=Data+Science;Artificial+Intelligence;Computer+software+development;Mobile+development;Cybersecurity" alt="Typing SVG" /></a>
 
 <!-- My skills -->
 <h3>⚡ 𝕄𝕪 𝕤𝕜𝕚𝕝𝕝𝕤:</h3>
