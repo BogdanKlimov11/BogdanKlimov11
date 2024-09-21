@@ -159,22 +159,22 @@
 <!-- My IDE -->
 <h3>💻 𝕀𝔻𝔼𝕤 𝕀 𝕦𝕤𝕖:</h3>
 
-<img src="https://github.com/user-attachments/assets/32d2c47f-b2ad-4f4a-823d-49ecd5f577a7" alt="IntelliJ" title="IntelliJ" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/user-attachments/assets/7ce75557-d3a3-48b9-b455-228484bc0f4a" alt="PyCharm" title="PyCharm" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/user-attachments/assets/9c7712eb-3d75-4efc-bb3c-ffa24bdde22d" alt="CLion" title="CLion" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/user-attachments/assets/24bc2785-f921-4988-9473-2908f6b67362" alt="WebStorm" title="WebStorm" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/user-attachments/assets/3b469242-2513-48a6-b19f-ab18c075b31d" alt="DataSpell" title="DataSpell" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/user-attachments/assets/6a5db3e8-942b-46f0-9d14-76e077080ba6" alt="DataGrip" title="DataGrip" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/user-attachments/assets/4db08b6a-661f-4091-81f8-378965d459b5" alt="PhpStorm" title="PhpStorm" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/user-attachments/assets/f4660587-96b6-4446-8749-f9c43b32cacb" alt="Rider" title="Rider" width="45px" height="45px"> <br>
-<img src="https://github.com/user-attachments/assets/1065922b-537f-4e8b-b318-58a8f1f14d01" alt="Jupyter Notebook" title="Jupyter Notebook" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/user-attachments/assets/26f50ca4-23c8-49da-aa91-8158b10a8628" alt="Visual Studio" title="Visual Studio" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/user-attachments/assets/79e6784d-614a-4766-b35e-31b9553676c0" alt="Visual Studio Code" title="Visual Studio Code" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/733955ac-cf67-434a-a783-8f03cced968d" alt="Arduino IDE" title="Arduino IDE" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/5348d0de-e255-49d1-9255-d3c2f7bd5825" alt="Atom" title="Atom" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/8e43793b-2712-4b9f-b554-97f070fd914e" alt="Anaconda" title="Anaconda" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/dd69c74e-8970-4a46-a08c-817aad489487" alt="Android Studio" title="Android Studio" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/2b23ec83-e08a-4566-8baa-973276e0ac7f" alt="Vivado" title="Vivado" width="45px" height="45px">
+<a href="https://www.jetbrains.com/idea/"><img src="https://github.com/user-attachments/assets/32d2c47f-b2ad-4f4a-823d-49ecd5f577a7" alt="IntelliJ" title="IntelliJ" width="45px" height="45px"></a> &nbsp;
+<a href="https://www.jetbrains.com/pycharm/"><img src="https://github.com/user-attachments/assets/7ce75557-d3a3-48b9-b455-228484bc0f4a" alt="PyCharm" title="PyCharm" width="45px" height="45px"></a> &nbsp;
+<a href="https://www.jetbrains.com/clion/"><img src="https://github.com/user-attachments/assets/9c7712eb-3d75-4efc-bb3c-ffa24bdde22d" alt="CLion" title="CLion" width="45px" height="45px"></a> &nbsp;
+<a href="https://www.jetbrains.com/webstorm/"><img src="https://github.com/user-attachments/assets/24bc2785-f921-4988-9473-2908f6b67362" alt="WebStorm" title="WebStorm" width="45px" height="45px"></a> &nbsp;
+<a href="https://www.jetbrains.com/dataspell/"><img src="https://github.com/user-attachments/assets/3b469242-2513-48a6-b19f-ab18c075b31d" alt="DataSpell" title="DataSpell" width="45px" height="45px"></a> &nbsp;
+<a href="https://www.jetbrains.com/datagrip/"><img src="https://github.com/user-attachments/assets/6a5db3e8-942b-46f0-9d14-76e077080ba6" alt="DataGrip" title="DataGrip" width="45px" height="45px"></a> &nbsp;
+<a href="https://www.jetbrains.com/phpstorm/"><img src="https://github.com/user-attachments/assets/4db08b6a-661f-4091-81f8-378965d459b5" alt="PhpStorm" title="PhpStorm" width="45px" height="45px"></a> &nbsp;
+<a href="https://www.jetbrains.com/rider/"><img src="https://github.com/user-attachments/assets/f4660587-96b6-4446-8749-f9c43b32cacb" alt="Rider" title="Rider" width="45px" height="45px"></a> <br>
+<a href="https://jupyter.org/"><img src="https://github.com/user-attachments/assets/1065922b-537f-4e8b-b318-58a8f1f14d01" alt="Jupyter Notebook" title="Jupyter Notebook" width="45px" height="45px"></a> &nbsp;
+<a href="https://visualstudio.microsoft.com/ru/"><img src="https://github.com/user-attachments/assets/26f50ca4-23c8-49da-aa91-8158b10a8628" alt="Visual Studio" title="Visual Studio" width="45px" height="45px"></a> &nbsp;
+<a href="https://code.visualstudio.com/"><img src="https://github.com/user-attachments/assets/79e6784d-614a-4766-b35e-31b9553676c0" alt="Visual Studio Code" title="Visual Studio Code" width="45px" height="45px"></a> &nbsp;
+<a href="https://www.arduino.cc/en/software"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/733955ac-cf67-434a-a783-8f03cced968d" alt="Arduino IDE" title="Arduino IDE" width="45px" height="45px"></a> &nbsp;
+<a href="https://atom-editor.cc/"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/5348d0de-e255-49d1-9255-d3c2f7bd5825" alt="Atom" title="Atom" width="45px" height="45px"></a> &nbsp;
+<a href="https://anaconda.org/"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/8e43793b-2712-4b9f-b554-97f070fd914e" alt="Anaconda" title="Anaconda" width="45px" height="45px"></a> &nbsp;
+<a href="https://developer.android.com/"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/dd69c74e-8970-4a46-a08c-817aad489487" alt="Android Studio" title="Android Studio" width="45px" height="45px"></a> &nbsp;
+<a href="https://www.xilinx.com/support/download.html"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/2b23ec83-e08a-4566-8baa-973276e0ac7f" alt="Vivado" title="Vivado" width="45px" height="45px"></a>
 
 <h3>🛰️ 𝕄𝕪 𝕨𝕖𝕓 𝕓𝕣𝕠𝕨𝕤𝕖𝕣𝕤:</h3>
 
