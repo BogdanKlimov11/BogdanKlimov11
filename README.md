@@ -268,6 +268,8 @@
 
 <a href="https://github.com/piyushsuthar/github-readme-quotes"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" width="49.7%" height="auto"></a>
 
+<h3>🛰️ ℙ𝕝𝕒𝕥𝕗𝕠𝕣𝕞𝕤 𝕠𝕟 𝕨𝕙𝕚𝕔𝕙 𝕪𝕠𝕦 𝕔𝕒𝕟 𝕔𝕠𝕟𝕥𝕒𝕔𝕥 𝕞𝕖:</h3>
+
 <table>
     <tr>
         <td><img src="https://github.com/user-attachments/assets/061f476b-8484-4fb4-86a1-54a0c75b8d0e"/></td>
@@ -276,15 +278,9 @@
         <td><img src="https://github.com/user-attachments/assets/c42bac0d-214e-4ff7-8d8f-ab5de5cdd938"/></td>
     </tr>
     <tr>
-        <td><img src=""/></td>
-        <td><img src=""/></td>
-        <td><img src=""/></td>
-        <td><img src=""/></td>
-    </tr>
-    <tr>
-        <td><img src=""/></td>
-        <td><img src=""/></td>
-        <td><img src=""/></td>
-        <td><img src=""/></td>
+        <td><img src="https://github.com/user-attachments/assets/2c387e0b-087d-4fa7-83b0-aa90a3ab1d67"/></td>
+        <td><img src="https://github.com/user-attachments/assets/7f4bfdd1-7571-4a7b-af01-206138317446"/></td>
+        <td><img src="https://github.com/user-attachments/assets/7d8ca459-ec1e-4fe1-9302-c6f2ef903502"/></td>
+        <td><img src="https://github.com/user-attachments/assets/f0dd44dd-495e-4e5b-9bba-c89c69e1de74"/></td>
     </tr>
 </table>
