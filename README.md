@@ -28,10 +28,10 @@
 <!-- My contects -->
 <h3>📡 ℂ𝕠𝕟𝕥𝕒𝕔𝕥 𝕞𝕖:</h3>
 
-<a href="https://www.instagram.com/ghost_777_24?igsh=aHdwa2s1cTIzbmhw&utm_source=qr"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/1227d4f3-f6d2-4f35-b596-3efc7daae353" alt="Instagram" title="Instagram" width="45px" height="45px"></a> &nbsp;
+<a href="https://www.instagram.com/ghost_777_24?igsh=aHdwa2s1cTIzbmhw"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/1227d4f3-f6d2-4f35-b596-3efc7daae353" alt="Instagram" title="Instagram" width="45px" height="45px"></a> &nbsp;
 <a href="https://vk.com/bogdan_klimov"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/75b2c161-3d1c-4711-9eb7-e2c63ee052be" alt="VK" title="VKontakte" width="45px" height="45px"></a> &nbsp;
 <a href="https://t.me/bogdanklimov"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/d55ff808-ede2-4ca2-aa92-41c987ce9c57" alt="Telegram" title="Telegram" width="45px" height="45px"></a> &nbsp;
-<a href="https://www.facebook.com/profile.php?id=100033935590093&mibextid=LQQJ4d"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/b4a0f683-db6f-4a34-a47d-8f4a436448f2" alt="Facebook" title="Facebook" width="45px" height="45px"></a> &nbsp;
+<a href="https://www.facebook.com/profile.php?id=100033935590093"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/b4a0f683-db6f-4a34-a47d-8f4a436448f2" alt="Facebook" title="Facebook" width="45px" height="45px"></a> &nbsp;
 <a href="https://twitter.com/ghost_777_24"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/408f9b81-2d4e-47af-b1af-14315528311f" alt="Twitter" title="Twitter" width="45px" height="45px"></a> &nbsp;
 <a href="https://www.youtube.com/channel/UCZzftYFs4DgUapV4Fl7EGuw"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/eea437a4-58d1-43d7-addf-513da324e94c" alt="YouTube" title="YouTube" width="45px" height="45px"></a> &nbsp;
 <a href="https://habr.com/ru/users/IT_Killer/"><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/8baf3c6e-63d9-4a5b-80d4-2ab48b794fbf" alt="Habr" title="Habr" width="45px" height="45px"></a> &nbsp;
@@ -267,3 +267,24 @@
 <h4>📅 ℚ𝕦𝕠𝕥𝕖 𝕠𝕗 𝕥𝕙𝕖 𝔻𝕒𝕪:</h4>
 
 <a href="https://github.com/piyushsuthar/github-readme-quotes"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" width="49.7%" height="auto"></a>
+
+<table>
+    <tr>
+        <td><img src="https://github.com/user-attachments/assets/061f476b-8484-4fb4-86a1-54a0c75b8d0e"/></td>
+        <td><img src="https://github.com/user-attachments/assets/8bf6609b-2036-46ff-bbe9-754cf8eeb5d9"/></td>
+        <td><img src="https://github.com/user-attachments/assets/081aa907-8476-4538-8adc-d3e0ab91741c"/></td>
+        <td><img src="https://github.com/user-attachments/assets/c42bac0d-214e-4ff7-8d8f-ab5de5cdd938"/></td>
+    </tr>
+    <tr>
+        <td><img src=""/></td>
+        <td><img src=""/></td>
+        <td><img src=""/></td>
+        <td><img src=""/></td>
+    </tr>
+    <tr>
+        <td><img src=""/></td>
+        <td><img src=""/></td>
+        <td><img src=""/></td>
+        <td><img src=""/></td>
+    </tr>
+</table>
