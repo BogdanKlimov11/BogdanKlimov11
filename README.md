@@ -124,6 +124,7 @@
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/de3c0093-b518-4df0-8456-4004ff4edd5b" alt="Vite" title="Vite" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/user-attachments/assets/cc2bfa6a-ca00-497b-8bb3-eafad6ec55e9" alt="Webpack" title="Webpack" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/d5178eb1-43e1-47ea-8468-c1c121435482" alt="Metasploit" title="Metasploit" width="45px" height="45px"> &nbsp;
+<img src="https://github.com/user-attachments/assets/309d8f8c-1c5f-437c-b31b-69512eea6f5d" alt="Flutter" title="Flutter" width="45px" height="45px">
 
 <!-- My tools -->
 <h3>🛠️ 𝕄𝕪 𝕥𝕠𝕠𝕝𝕤:</h3>
@@ -151,7 +152,8 @@
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/2ec992ea-5de2-4314-8a91-50bae22c6a3e" alt="Tilda" title="Tilda" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/user-attachments/assets/e4094ea8-1461-4b22-9372-8e467fc4195d" alt="Figma" title="Figma" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/abecd2fd-206c-4c4a-b581-73596fe123d4" alt="Raspberry Pi" title="Raspberry Pi" width="45px" height="45px"> &nbsp;
-<img src="https://github.com/user-attachments/assets/673bf9aa-67e8-4d5c-b818-aee1a1b15e81" alt="CMake" title="CMake" width="45px" height="45px"> <br>
+<img src="https://github.com/user-attachments/assets/0e83f62d-1715-4bf6-bdb5-81a248a5c6bb" alt="Gradle" title="Gradle" width="45px" height="45px"> <br>
+<img src="https://github.com/user-attachments/assets/673bf9aa-67e8-4d5c-b818-aee1a1b15e81" alt="CMake" title="CMake" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/ed143b06-8008-4726-bb36-dfb33be97c78" alt="Nmap" title="Nmap" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/6f8be38f-f1c1-4349-b8ad-e4e039b2a7ff" alt="Wireshark" title="Wireshark" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/bfd8dc70-2d14-48df-90c6-7874c8a8d668" alt="Burp Suite" title="Burp Suite" width="45px" height="45px"> &nbsp;
