@@ -239,7 +239,7 @@
 
 <h4>📊 𝕄𝕪 𝕃𝕖𝕖𝕥ℂ𝕠𝕕𝕖 𝕡𝕣𝕠𝕗𝕚𝕝𝕖:</h4>
 
-<a href="https://github.com/KnlnKS/leetcode-stats"><img src="https://leetcode-stats-six.vercel.app/api?username=BogdanKlimov11&theme=dark" alt="LeetCode stats" width="49.7%" height="auto"></a>
+<a href="https://github.com/KnlnKS/leetcode-stats"><img src="https://leetcard.jacoblin.cool/BogdanKlimov11?ext=heatmap&theme=dark&border=0&radius=10" alt="LeetCode stats" width="49.7%" height="auto"></a>
 
 <h4>🚀 𝕄𝕪 𝕊𝕥𝕒𝕔𝕜𝕆𝕧𝕖𝕣𝕗𝕝𝕠𝕨 𝕡𝕣𝕠𝕗𝕚𝕝𝕖:</h4>
 
