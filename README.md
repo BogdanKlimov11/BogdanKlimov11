@@ -52,7 +52,7 @@
 <!-- My skills -->
 <h3>⚡ 𝕄𝕪 𝕤𝕜𝕚𝕝𝕝𝕤:</h3>
 
-<h4>😎 𝔸𝕝𝕣𝕖𝕒𝕕𝕪 𝕞𝕒𝕤𝕥𝕖𝕣𝕖𝕕:</h4>
+<h4>😎 𝔸𝕝𝕣𝕖𝕒𝕕𝕪 𝕦𝕤𝕖𝕕 𝕗𝕠𝕣 𝕨𝕠𝕣𝕜:</h4>
 
 <a href=""><img src="https://github.com/user-attachments/assets/d5d0b994-e1b2-4f07-9272-1d9095021f88" alt="Python" title="Python" width="45px" height="45px"></a> &nbsp;
 <a href=""><img src="https://github.com/user-attachments/assets/0685f5df-55c5-4c06-b144-5f08da4ba36d" alt="C" title="C" width="45px" height="45px"></a> &nbsp;
@@ -210,7 +210,7 @@
 <a href="https://www.duolingo.com/profile/BogdanKlimov11?via=share_profile"><img src="https://img.shields.io/badge/BogdanKlimov11_(24_000_XP)-05122A?style=flat&logo=Duolingo" alt="Duolingo stats" width="auto" height="42px"></a>
 
 
-<h4>🎯 𝕀 𝕤𝕡𝕖𝕒𝕜 𝕝𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤:</h4>
+<h4>🎯 𝕀 𝕒𝕞 𝕒𝕝𝕣𝕖𝕒𝕕𝕪 𝕤𝕥𝕦𝕕𝕪𝕚𝕟𝕘 𝕠𝕣 𝕙𝕒𝕧𝕖 𝕤𝕥𝕦𝕕𝕚𝕖𝕕:</h4>
 
 <ul>
     <li><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/dcb1abad-f007-4595-ba93-6b125e67a15b" alt="Russian" width="20px" height="12px"> &nbsp; ℝ𝕦𝕤𝕤𝕚𝕒𝕟 (ℕ𝕒𝕥𝕚𝕧𝕖)</li>
@@ -218,7 +218,7 @@
     <li><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/e61d2c12-1f64-4522-b64f-ee7498cbce6a" alt="German" width="20px" height="12px"> &nbsp; 𝔾𝕖𝕣𝕞𝕒𝕟 (𝔸𝟙)</li>
 </ul>
 
-<h4>🎓 𝕀 𝕤𝕥𝕦𝕕𝕪 𝕝𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤:</h4>
+<h4>🎓 𝕀 𝕡𝕝𝕒𝕟 𝕥𝕠 𝕤𝕥𝕦𝕕𝕪:</h4>
 
 <ul>
     <li><img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/4f189db8-2b34-44e8-afae-2412df2ca991" alt="French" width="20px" height="12px"> &nbsp; 𝔽𝕣𝕖𝕟𝕔𝕙</li>
@@ -261,10 +261,6 @@
     <li>⌨️ 𝕀 𝕙𝕒𝕧𝕖 𝕥𝕠𝕦𝕔𝕙 𝕥𝕪𝕡𝕚𝕟𝕘 𝕤𝕜𝕚𝕝𝕝𝕤.</li>
     <li>👨‍💻 𝕀 𝕕𝕣𝕖𝕒𝕞 𝕠𝕗 𝕓𝕖𝕔𝕠𝕞𝕚𝕟𝕘 𝕒 𝕙𝕚𝕘𝕙𝕝𝕪 𝕢𝕦𝕒𝕝𝕚𝕗𝕚𝕖𝕕 𝔻𝕒𝕥𝕒 𝕊𝕔𝕚𝕖𝕟𝕥𝕚𝕤𝕥.</li>
 </ul>
-
-<h4>🎵 𝕄𝕪 𝕊𝕡𝕠𝕥𝕚𝕗𝕪 𝕡𝕣𝕠𝕗𝕚𝕝𝕖:</h4>
-
-<a href="https://github.com/BogdanKlimov11/spotify-github-profile"><img src="https://spotify-github-profile.vercel.app/api/view?uid=316avvgqriej7ktrfybyf7d6377u&cover_image=true&theme=default&show_offline=false&background_color=292a2b&interchange=true&bar_color=3fca62&bar_color_cover=false" alt="Spotify profile" width="49.7%" height="auto"></a>
 
 <h4>📅 ℚ𝕦𝕠𝕥𝕖 𝕠𝕗 𝕥𝕙𝕖 𝔻𝕒𝕪:</h4>
 
