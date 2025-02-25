@@ -78,7 +78,7 @@
 <a href=""><img src="https://github.com/user-attachments/assets/e991160f-9e70-46eb-bbac-2060ff124560" alt="Swift" title="Swift" width="45px" height="45px"></a> &nbsp;
 <a href=""><img src="https://github.com/user-attachments/assets/7f83f216-65ee-4ac6-b4aa-995739c566b5" alt="Assembler" title="Assembler" width="45px" height="45px"></a>
 
-<h4>🧐 𝕊𝕥𝕚𝕝𝕝 𝕤𝕥𝕦𝕕𝕪𝕚𝕟𝕘:</h4>
+<h4>🧐 𝕀 𝕨𝕒𝕟𝕥 𝕥𝕠 𝕝𝕖𝕒𝕣𝕟:</h4>
 
 <a href=""><img src="https://github.com/user-attachments/assets/60474c62-c1d6-46b8-916d-2bd663ce4b04" alt="C#" title="C#" width="45px" height="45px"></a> &nbsp;
 <a href=""><img src="https://github.com/user-attachments/assets/6ac574d6-a081-4d04-932d-8d17edaafdf3" alt="R" title="R" width="45px" height="45px"></a> &nbsp;
@@ -94,7 +94,7 @@
 <a href=""><img src="https://github.com/user-attachments/assets/1bac15a4-c0fb-4d4d-81ca-3bb66519b833" alt="Perl" title="Perl" width="45px" height="45px"></a>
 
 <!-- My framework -->
-<h3>💼 𝕄𝕪 𝕗𝕣𝕒𝕞𝕖𝕨𝕠𝕣𝕜:</h3>
+<h3>💼 𝔽𝕣𝕒𝕞𝕖𝕨𝕠𝕣𝕜𝕤 𝕀 𝕙𝕒𝕧𝕖 𝕨𝕠𝕣𝕜𝕖𝕕 𝕨𝕚𝕥𝕙:</h3>
 
 <img src="https://github.com/user-attachments/assets/c34c0011-d534-41a8-aa22-6eddb992f1fd" alt="React.js" title="React.js" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/user-attachments/assets/6c1beeec-8a87-4a03-b4b5-82f7ca7e0e21" alt="Vue.js" title="Vue.js" width="45px" height="45px"> &nbsp;
@@ -127,7 +127,7 @@
 <img src="https://github.com/user-attachments/assets/309d8f8c-1c5f-437c-b31b-69512eea6f5d" alt="Flutter" title="Flutter" width="45px" height="45px">
 
 <!-- My tools -->
-<h3>🛠️ 𝕄𝕪 𝕥𝕠𝕠𝕝𝕤:</h3>
+<h3>🛠️ 𝕋𝕠𝕠𝕝𝕤 𝕀 𝕦𝕤𝕖𝕕:</h3>
 
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/ae968aa0-52a2-45a3-ac46-70cb90b1ec6e" alt="Photoshop" title="Photoshop" width="45px" height="45px"> &nbsp;
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/1a6cf766-e466-4f48-9330-ca67ab29ce7b" alt="After Effects" title="After Effects" width="45px" height="45px"> &nbsp;
@@ -159,7 +159,7 @@
 <img src="https://github.com/BogdanKlimov11/BogdanKlimov11/assets/136115919/bfd8dc70-2d14-48df-90c6-7874c8a8d668" alt="Burp Suite" title="Burp Suite" width="45px" height="45px"> &nbsp;
 
 <!-- My IDE -->
-<h3>💻 𝕀𝔻𝔼𝕤 𝕀 𝕦𝕤𝕖:</h3>
+<h3>💻 𝕀𝔻𝔼𝕤 𝕀 𝕦𝕤𝕖𝕕:</h3>
 
 <a href="https://www.jetbrains.com/idea/"><img src="https://github.com/user-attachments/assets/32d2c47f-b2ad-4f4a-823d-49ecd5f577a7" alt="IntelliJ" title="IntelliJ" width="45px" height="45px"></a> &nbsp;
 <a href="https://www.jetbrains.com/pycharm/"><img src="https://github.com/user-attachments/assets/7ce75557-d3a3-48b9-b455-228484bc0f4a" alt="PyCharm" title="PyCharm" width="45px" height="45px"></a> &nbsp;
