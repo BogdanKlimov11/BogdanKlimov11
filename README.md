@@ -244,7 +244,7 @@
 <h3>📁 𝕄𝕪 𝕣𝕖𝕡𝕠𝕤𝕚𝕥𝕠𝕣𝕚𝕖𝕤:</h3>
 
 <a href="https://github.com/BogdanKlimov11/MatLab_course"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanKlimov11&repo=MatLab_course&theme=tokyonight&hide_border=true" alt="MatLab course" width="49.7%" height="auto"></a>
-<a href="https://github.com/BogdanKlimov11/Wolfram_course"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanKlimov11&repo=Wolfram_course&theme=tokyonight&hide_border=true" alt="Wolfram course" width="49.7%" height="auto"></a>
+<a href="https://github.com/BogdanKlimov11/Self-development"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanKlimov11&repo=Self-development&theme=tokyonight&hide_border=true" alt="Self-development" width="49.7%" height="auto"></a>
 <a href="https://github.com/BogdanKlimov11/LaTex_course"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanKlimov11&repo=LaTex_course&theme=tokyonight&hide_border=true" alt="LaTex course" width="49.7%" height="auto"></a>
 <a href="https://github.com/BogdanKlimov11/Markdown_course"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanKlimov11&repo=Markdown_course&theme=tokyonight&hide_border=true" alt="Markdown course" width="49.7%" height="auto"></a>
 
